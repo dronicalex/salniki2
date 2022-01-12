@@ -1,0 +1,6087 @@
+[
+	{
+		"marca": "Acura",
+		"model": "CDX",
+		"god": 2016
+	},
+	{
+		"marca": "Acura",
+		"model": "CL",
+		"god": 1998
+	},
+	{
+		"marca": "Acura",
+		"model": "EL",
+		"god": 1997
+	},
+	{
+		"marca": "Acura",
+		"model": "ILX",
+		"god": 2012
+	},
+	{
+		"marca": "Acura",
+		"model": "Integra",
+		"god": 1995
+	},
+	{
+		"marca": "Acura",
+		"model": "MDX",
+		"god": 2001
+	},
+	{
+		"marca": "Acura",
+		"model": "NSX",
+		"god": 2001
+	},
+	{
+		"marca": "Acura",
+		"model": "RDX",
+		"god": 2006
+	},
+	{
+		"marca": "Acura",
+		"model": "RL",
+		"god": 1995
+	},
+	{
+		"marca": "Acura",
+		"model": "RLX",
+		"god": 2013
+	},
+	{
+		"marca": "Acura",
+		"model": "RSX",
+		"god": 2002
+	},
+	{
+		"marca": "Acura",
+		"model": "TL",
+		"god": 1999
+	},
+	{
+		"marca": "Acura",
+		"model": "TLX",
+		"god": 2014
+	},
+	{
+		"marca": "Acura",
+		"model": "TSX",
+		"god": 2003
+	},
+	{
+		"marca": "Acura",
+		"model": "ZDX",
+		"god": 2010
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": 146,
+		"god": 1994
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": 147,
+		"god": 1998
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "147 GTA",
+		"god": 2002
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": 156,
+		"god": 1997
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "156 GTA",
+		"god": 2002
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": 159,
+		"god": 2005
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": 166,
+		"god": 1998
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "4C",
+		"god": 2013
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "8C Competizione",
+		"god": 2008
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "Brera",
+		"god": 2005
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "Giulia",
+		"god": 2016
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "Giulietta",
+		"god": 2010
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "GT",
+		"god": 2003
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "GTV",
+		"god": 1995
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "MiTo",
+		"god": 2008
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "Spider",
+		"god": 1998
+	},
+	{
+		"marca": "Alfa Romeo",
+		"model": "Stelvio",
+		"god": 2017
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Cygnet",
+		"god": 2011
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "DB11",
+		"god": 2016
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "DB9",
+		"god": 2004
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "DBS",
+		"god": 2003
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "DBS Superleggera",
+		"god": 2018
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "DBS Violante",
+		"god": 2007
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "DBX",
+		"god": 2020
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Rapide",
+		"god": 2010
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "V12 Vanquish",
+		"god": 2001
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "V12 Vantage",
+		"god": 2010
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "V8 Vantage",
+		"god": 2005
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Valkyrie",
+		"god": 2019
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Vanquish",
+		"god": 2011
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Vantage",
+		"god": 2018
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Virage",
+		"god": 2011
+	},
+	{
+		"marca": "Aston Martin",
+		"model": "Zagato Coupe",
+		"god": 2016
+	},
+	{
+		"marca": "Audi",
+		"model": "A1",
+		"god": 2010
+	},
+	{
+		"marca": "Audi",
+		"model": "A2",
+		"god": 2000
+	},
+	{
+		"marca": "Audi",
+		"model": "A3",
+		"god": 1996
+	},
+	{
+		"marca": "Audi",
+		"model": "A4",
+		"god": 1995
+	},
+	{
+		"marca": "Audi",
+		"model": "A4 Allroad Quattro",
+		"god": 2009
+	},
+	{
+		"marca": "Audi",
+		"model": "A5",
+		"god": 2007
+	},
+	{
+		"marca": "Audi",
+		"model": "A6",
+		"god": 1998
+	},
+	{
+		"marca": "Audi",
+		"model": "A7",
+		"god": 2010
+	},
+	{
+		"marca": "Audi",
+		"model": "A8",
+		"god": 1994
+	},
+	{
+		"marca": "Audi",
+		"model": "Allroad",
+		"god": 2000
+	},
+	{
+		"marca": "Audi",
+		"model": "e-tron",
+		"god": 2019
+	},
+	{
+		"marca": "Audi",
+		"model": "e-tron GT",
+		"god": 2020
+	},
+	{
+		"marca": "Audi",
+		"model": "e-tron Sportback",
+		"god": 2020
+	},
+	{
+		"marca": "Audi",
+		"model": "Q2",
+		"god": 2016
+	},
+	{
+		"marca": "Audi",
+		"model": "Q3",
+		"god": 2011
+	},
+	{
+		"marca": "Audi",
+		"model": "Q4",
+		"god": 2021
+	},
+	{
+		"marca": "Audi",
+		"model": "Q5",
+		"god": 2008
+	},
+	{
+		"marca": "Audi",
+		"model": "Q5 Sportback",
+		"god": 2021
+	},
+	{
+		"marca": "Audi",
+		"model": "Q7",
+		"god": 2006
+	},
+	{
+		"marca": "Audi",
+		"model": "Q8",
+		"god": 2018
+	},
+	{
+		"marca": "Audi",
+		"model": "R8",
+		"god": 2006
+	},
+	{
+		"marca": "Audi",
+		"model": "RS e-tron GT",
+		"god": 2021
+	},
+	{
+		"marca": "Audi",
+		"model": "RS Q3",
+		"god": 2012
+	},
+	{
+		"marca": "Audi",
+		"model": "RS Q3 Sportback",
+		"god": 2019
+	},
+	{
+		"marca": "Audi",
+		"model": "RS Q7",
+		"god": 0
+	},
+	{
+		"marca": "Audi",
+		"model": "RS Q8",
+		"god": 2019
+	},
+	{
+		"marca": "Audi",
+		"model": "RS3",
+		"god": 2011
+	},
+	{
+		"marca": "Audi",
+		"model": "RS4",
+		"god": 2005
+	},
+	{
+		"marca": "Audi",
+		"model": "RS5",
+		"god": 2010
+	},
+	{
+		"marca": "Audi",
+		"model": "RS6",
+		"god": 2002
+	},
+	{
+		"marca": "Audi",
+		"model": "RS7",
+		"god": 2013
+	},
+	{
+		"marca": "Audi",
+		"model": "S1",
+		"god": 2014
+	},
+	{
+		"marca": "Audi",
+		"model": "S3",
+		"god": 2006
+	},
+	{
+		"marca": "Audi",
+		"model": "S4",
+		"god": 1998
+	},
+	{
+		"marca": "Audi",
+		"model": "S5",
+		"god": 2007
+	},
+	{
+		"marca": "Audi",
+		"model": "S6",
+		"god": 1999
+	},
+	{
+		"marca": "Audi",
+		"model": "S7",
+		"god": 2012
+	},
+	{
+		"marca": "Audi",
+		"model": "S8",
+		"god": 1996
+	},
+	{
+		"marca": "Audi",
+		"model": "SQ2",
+		"god": 2019
+	},
+	{
+		"marca": "Audi",
+		"model": "SQ5",
+		"god": 2012
+	},
+	{
+		"marca": "Audi",
+		"model": "SQ7",
+		"god": 2016
+	},
+	{
+		"marca": "Audi",
+		"model": "SQ8",
+		"god": 2019
+	},
+	{
+		"marca": "Audi",
+		"model": "TT",
+		"god": 1998
+	},
+	{
+		"marca": "Audi",
+		"model": "TT RS",
+		"god": 2008
+	},
+	{
+		"marca": "Audi",
+		"model": "TTS",
+		"god": 2008
+	},
+	{
+		"marca": "Bentley",
+		"model": "Arnage",
+		"god": 1999
+	},
+	{
+		"marca": "Bentley",
+		"model": "Azure",
+		"god": 1999
+	},
+	{
+		"marca": "Bentley",
+		"model": "Bentayga",
+		"god": 2015
+	},
+	{
+		"marca": "Bentley",
+		"model": "Brooklands",
+		"god": 2008
+	},
+	{
+		"marca": "Bentley",
+		"model": "Continental",
+		"god": 2003
+	},
+	{
+		"marca": "Bentley",
+		"model": "Continental Flying Spur",
+		"god": 2005
+	},
+	{
+		"marca": "Bentley",
+		"model": "Continental GT",
+		"god": 2018
+	},
+	{
+		"marca": "Bentley",
+		"model": "Flying Spur",
+		"god": 2013
+	},
+	{
+		"marca": "Bentley",
+		"model": "Mulsanne",
+		"god": 2010
+	},
+	{
+		"marca": "BMW",
+		"model": "1 series",
+		"god": 2004
+	},
+	{
+		"marca": "BMW",
+		"model": "2 series",
+		"god": 2013
+	},
+	{
+		"marca": "BMW",
+		"model": "3 series",
+		"god": 1982
+	},
+	{
+		"marca": "BMW",
+		"model": "4 series",
+		"god": 2013
+	},
+	{
+		"marca": "BMW",
+		"model": "5 series",
+		"god": 1988
+	},
+	{
+		"marca": "BMW",
+		"model": "6 series",
+		"god": 2004
+	},
+	{
+		"marca": "BMW",
+		"model": "7 series",
+		"god": 1995
+	},
+	{
+		"marca": "BMW",
+		"model": "8 series",
+		"god": 1990
+	},
+	{
+		"marca": "BMW",
+		"model": "i3",
+		"god": 2013
+	},
+	{
+		"marca": "BMW",
+		"model": "i4",
+		"god": 2021
+	},
+	{
+		"marca": "BMW",
+		"model": "i8",
+		"god": 2014
+	},
+	{
+		"marca": "BMW",
+		"model": "iX",
+		"god": 2021
+	},
+	{
+		"marca": "BMW",
+		"model": "iX3",
+		"god": 2020
+	},
+	{
+		"marca": "BMW",
+		"model": "M2",
+		"god": 2015
+	},
+	{
+		"marca": "BMW",
+		"model": "M3",
+		"god": 1992
+	},
+	{
+		"marca": "BMW",
+		"model": "M4",
+		"god": 2012
+	},
+	{
+		"marca": "BMW",
+		"model": "M5",
+		"god": 1998
+	},
+	{
+		"marca": "BMW",
+		"model": "M6",
+		"god": 2005
+	},
+	{
+		"marca": "BMW",
+		"model": "M8",
+		"god": 2019
+	},
+	{
+		"marca": "BMW",
+		"model": "X1",
+		"god": 2009
+	},
+	{
+		"marca": "BMW",
+		"model": "X2",
+		"god": 2017
+	},
+	{
+		"marca": "BMW",
+		"model": "X3",
+		"god": 2004
+	},
+	{
+		"marca": "BMW",
+		"model": "X3 M",
+		"god": 2019
+	},
+	{
+		"marca": "BMW",
+		"model": "X4",
+		"god": 2014
+	},
+	{
+		"marca": "BMW",
+		"model": "X4 M",
+		"god": 2019
+	},
+	{
+		"marca": "BMW",
+		"model": "X5",
+		"god": 2000
+	},
+	{
+		"marca": "BMW",
+		"model": "X5 M",
+		"god": 2009
+	},
+	{
+		"marca": "BMW",
+		"model": "X6",
+		"god": 2008
+	},
+	{
+		"marca": "BMW",
+		"model": "X6 M",
+		"god": 2009
+	},
+	{
+		"marca": "BMW",
+		"model": "X7",
+		"god": 2018
+	},
+	{
+		"marca": "BMW",
+		"model": "Z3",
+		"god": 1996
+	},
+	{
+		"marca": "BMW",
+		"model": "Z4",
+		"god": 2002
+	},
+	{
+		"marca": "BMW",
+		"model": "Z8",
+		"god": 2000
+	},
+	{
+		"marca": "Brilliance",
+		"model": "H230",
+		"god": 2012
+	},
+	{
+		"marca": "Brilliance",
+		"model": "V3",
+		"god": 2014
+	},
+	{
+		"marca": "Brilliance",
+		"model": "V5",
+		"god": 2011
+	},
+	{
+		"marca": "Bugatti",
+		"model": "Veyron",
+		"god": 2005
+	},
+	{
+		"marca": "Buick",
+		"model": "Century",
+		"god": 1997
+	},
+	{
+		"marca": "Buick",
+		"model": "Enclave",
+		"god": 2007
+	},
+	{
+		"marca": "Buick",
+		"model": "Envision",
+		"god": 2014
+	},
+	{
+		"marca": "Buick",
+		"model": "La Crosse",
+		"god": 2004
+	},
+	{
+		"marca": "Buick",
+		"model": "LaCrosse",
+		"god": 2016
+	},
+	{
+		"marca": "Buick",
+		"model": "Le Sabre",
+		"god": 1999
+	},
+	{
+		"marca": "Buick",
+		"model": "Lucerne",
+		"god": 2005
+	},
+	{
+		"marca": "Buick",
+		"model": "Park Avenue",
+		"god": 1996
+	},
+	{
+		"marca": "Buick",
+		"model": "Rainier",
+		"god": 2003
+	},
+	{
+		"marca": "Buick",
+		"model": "Regal",
+		"god": 2009
+	},
+	{
+		"marca": "Buick",
+		"model": "Rendezvouz",
+		"god": 2001
+	},
+	{
+		"marca": "Buick",
+		"model": "Terraza",
+		"god": 2005
+	},
+	{
+		"marca": "Buick",
+		"model": "Verano",
+		"god": 2012
+	},
+	{
+		"marca": "BYD",
+		"model": "Qin",
+		"god": 2014
+	},
+	{
+		"marca": "Cadillac",
+		"model": "ATS",
+		"god": 2012
+	},
+	{
+		"marca": "Cadillac",
+		"model": "ATS-V",
+		"god": 2016
+	},
+	{
+		"marca": "Cadillac",
+		"model": "BLS",
+		"god": 2006
+	},
+	{
+		"marca": "Cadillac",
+		"model": "CT4",
+		"god": 2020
+	},
+	{
+		"marca": "Cadillac",
+		"model": "CT5",
+		"god": 2019
+	},
+	{
+		"marca": "Cadillac",
+		"model": "CT6",
+		"god": 2016
+	},
+	{
+		"marca": "Cadillac",
+		"model": "CTS",
+		"god": 2002
+	},
+	{
+		"marca": "Cadillac",
+		"model": "De Ville",
+		"god": 2000
+	},
+	{
+		"marca": "Cadillac",
+		"model": "DTS",
+		"god": 2006
+	},
+	{
+		"marca": "Cadillac",
+		"model": "Eldorado",
+		"god": 1992
+	},
+	{
+		"marca": "Cadillac",
+		"model": "ELR",
+		"god": 2013
+	},
+	{
+		"marca": "Cadillac",
+		"model": "Escalade",
+		"god": 2002
+	},
+	{
+		"marca": "Cadillac",
+		"model": "Seville",
+		"god": 1998
+	},
+	{
+		"marca": "Cadillac",
+		"model": "SRX",
+		"god": 2004
+	},
+	{
+		"marca": "Cadillac",
+		"model": "STS",
+		"god": 2004
+	},
+	{
+		"marca": "Cadillac",
+		"model": "XLR",
+		"god": 2003
+	},
+	{
+		"marca": "Cadillac",
+		"model": "XT4",
+		"god": 2018
+	},
+	{
+		"marca": "Cadillac",
+		"model": "XT5",
+		"god": 2016
+	},
+	{
+		"marca": "Cadillac",
+		"model": "XT6",
+		"god": 2019
+	},
+	{
+		"marca": "Cadillac",
+		"model": "XTS",
+		"god": 2012
+	},
+	{
+		"marca": "Changan",
+		"model": "CS35",
+		"god": 2012
+	},
+	{
+		"marca": "Changan",
+		"model": "CS35 Plus",
+		"god": 2018
+	},
+	{
+		"marca": "Changan",
+		"model": "CS55",
+		"god": 2017
+	},
+	{
+		"marca": "Changan",
+		"model": "CS75",
+		"god": 2013
+	},
+	{
+		"marca": "Changan",
+		"model": "CS95",
+		"god": 2017
+	},
+	{
+		"marca": "Changan",
+		"model": "Eado",
+		"god": 2012
+	},
+	{
+		"marca": "Changan",
+		"model": "Raeton",
+		"god": 2013
+	},
+	{
+		"marca": "Chery",
+		"model": "Amulet",
+		"god": 2003
+	},
+	{
+		"marca": "Chery",
+		"model": "Arrizo 7",
+		"god": 2013
+	},
+	{
+		"marca": "Chery",
+		"model": "Bonus",
+		"god": 2011
+	},
+	{
+		"marca": "Chery",
+		"model": "Bonus 3",
+		"god": 2013
+	},
+	{
+		"marca": "Chery",
+		"model": "CrossEastar",
+		"god": 2006
+	},
+	{
+		"marca": "Chery",
+		"model": "Eastar",
+		"god": 2003
+	},
+	{
+		"marca": "Chery",
+		"model": "Fora",
+		"god": 2006
+	},
+	{
+		"marca": "Chery",
+		"model": "IndiS",
+		"god": 2011
+	},
+	{
+		"marca": "Chery",
+		"model": "Kimo",
+		"god": 2008
+	},
+	{
+		"marca": "Chery",
+		"model": "M11",
+		"god": 2008
+	},
+	{
+		"marca": "Chery",
+		"model": "QQ",
+		"god": 2003
+	},
+	{
+		"marca": "Chery",
+		"model": "QQ6",
+		"god": 2006
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo",
+		"god": 2006
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo 3",
+		"god": 2014
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo 4",
+		"god": 2017
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo 5",
+		"god": 2014
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo 7",
+		"god": 2016
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo 8",
+		"god": 2018
+	},
+	{
+		"marca": "Chery",
+		"model": "Tiggo 8 Pro",
+		"god": 2021
+	},
+	{
+		"marca": "Chery",
+		"model": "Very",
+		"god": 2011
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Astro",
+		"god": 1995
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Avalanche",
+		"god": 2002
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Aveo",
+		"god": 2004
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Beat",
+		"god": 2010
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Blazer",
+		"god": 1994
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Camaro",
+		"god": 1998
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Captiva",
+		"god": 2006
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Cavalier",
+		"god": 1995
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Cobalt",
+		"god": 2005
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Colorado",
+		"god": 2004
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Corvette",
+		"god": 2005
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Cruze",
+		"god": 2009
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Epica",
+		"god": 2006
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Equinox",
+		"god": 2005
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Express",
+		"god": 2003
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "HHR",
+		"god": 2006
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Impala",
+		"god": 2006
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Lacetti",
+		"god": 2002
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Lanos",
+		"god": 1997
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Malibu",
+		"god": 2004
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Monte Carlo",
+		"god": 2005
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Niva",
+		"god": 2002
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Orlando",
+		"god": 2011
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Rezzo",
+		"god": 2000
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Silverado",
+		"god": 1999
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Silverado 1500",
+		"god": 1999
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Silverado 2500 HD",
+		"god": 2001
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Spark",
+		"god": 2005
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "SSR",
+		"god": 2003
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Suburban",
+		"god": 2001
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Tahoe",
+		"god": 2000
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "TrailBlazer",
+		"god": 2002
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Traverse",
+		"god": 2009
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Trax",
+		"god": 2013
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Uplander",
+		"god": 2005
+	},
+	{
+		"marca": "Chevrolet",
+		"model": "Venture",
+		"god": 1996
+	},
+	{
+		"marca": "Chrysler",
+		"model": 200,
+		"god": 2010
+	},
+	{
+		"marca": "Chrysler",
+		"model": 300,
+		"god": 2004
+	},
+	{
+		"marca": "Chrysler",
+		"model": "300M",
+		"god": 1998
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Aspen",
+		"god": 2006
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Concorde",
+		"god": 1998
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Crossfire",
+		"god": 2003
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Grand Voyager",
+		"god": 2008
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Pacifica",
+		"god": 2004
+	},
+	{
+		"marca": "Chrysler",
+		"model": "PT Cruiser",
+		"god": 2000
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Sebring",
+		"god": 2000
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Town & Country",
+		"god": 2008
+	},
+	{
+		"marca": "Chrysler",
+		"model": "Voyager",
+		"god": 1995
+	},
+	{
+		"marca": "Citroen",
+		"model": "Berlingo",
+		"god": 1996
+	},
+	{
+		"marca": "Citroen",
+		"model": "C-Crosser",
+		"god": 2007
+	},
+	{
+		"marca": "Citroen",
+		"model": "C-Elysee",
+		"god": 2012
+	},
+	{
+		"marca": "Citroen",
+		"model": "C1",
+		"god": 2005
+	},
+	{
+		"marca": "Citroen",
+		"model": "C2",
+		"god": 2003
+	},
+	{
+		"marca": "Citroen",
+		"model": "C3",
+		"god": 2002
+	},
+	{
+		"marca": "Citroen",
+		"model": "C3 Aircross",
+		"god": 2017
+	},
+	{
+		"marca": "Citroen",
+		"model": "C3 Picasso",
+		"god": 2009
+	},
+	{
+		"marca": "Citroen",
+		"model": "C3 Pluriel",
+		"god": 2003
+	},
+	{
+		"marca": "Citroen",
+		"model": "C4",
+		"god": 2004
+	},
+	{
+		"marca": "Citroen",
+		"model": "C4 Aircross",
+		"god": 2012
+	},
+	{
+		"marca": "Citroen",
+		"model": "C4 Cactus",
+		"god": 2014
+	},
+	{
+		"marca": "Citroen",
+		"model": "C4 Picasso",
+		"god": 2006
+	},
+	{
+		"marca": "Citroen",
+		"model": "C5",
+		"god": 2001
+	},
+	{
+		"marca": "Citroen",
+		"model": "C5 Aircross",
+		"god": 2017
+	},
+	{
+		"marca": "Citroen",
+		"model": "C6",
+		"god": 2004
+	},
+	{
+		"marca": "Citroen",
+		"model": "C8",
+		"god": 2002
+	},
+	{
+		"marca": "Citroen",
+		"model": "DS 7 Crossback",
+		"god": 2018
+	},
+	{
+		"marca": "Citroen",
+		"model": "DS3",
+		"god": 2009
+	},
+	{
+		"marca": "Citroen",
+		"model": "DS4",
+		"god": 2010
+	},
+	{
+		"marca": "Citroen",
+		"model": "DS5",
+		"god": 2011
+	},
+	{
+		"marca": "Citroen",
+		"model": "Grand C4 Picasso",
+		"god": 2006
+	},
+	{
+		"marca": "Citroen",
+		"model": "Jumper",
+		"god": 2014
+	},
+	{
+		"marca": "Citroen",
+		"model": "Jumpy",
+		"god": 2007
+	},
+	{
+		"marca": "Citroen",
+		"model": "Nemo",
+		"god": 2008
+	},
+	{
+		"marca": "Citroen",
+		"model": "Saxo",
+		"god": 1996
+	},
+	{
+		"marca": "Citroen",
+		"model": "Spacetourer",
+		"god": 2016
+	},
+	{
+		"marca": "Citroen",
+		"model": "Xsara",
+		"god": 1997
+	},
+	{
+		"marca": "Citroen",
+		"model": "Xsara Picasso",
+		"god": 1999
+	},
+	{
+		"marca": "Dacia",
+		"model": "Dokker",
+		"god": 2012
+	},
+	{
+		"marca": "Dacia",
+		"model": "Lodgy",
+		"god": 2012
+	},
+	{
+		"marca": "Dacia",
+		"model": "Solenza",
+		"god": 2003
+	},
+	{
+		"marca": "Dacia",
+		"model": "SupeRNova",
+		"god": 2000
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Evanda",
+		"god": 2002
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Kalos",
+		"god": 2002
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Leganza",
+		"god": 1997
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Magnus",
+		"god": 2000
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Matiz",
+		"god": 2000
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Nexia",
+		"god": 1995
+	},
+	{
+		"marca": "Daewoo",
+		"model": "Nubira",
+		"god": 1997
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Applause",
+		"god": 1997
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Cast",
+		"god": 2015
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Copen",
+		"god": 2002
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Cuore",
+		"god": 2003
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Gran Move",
+		"god": 1996
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Luxio",
+		"god": 2009
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Materia",
+		"god": 2006
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Mebius",
+		"god": 2013
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Move",
+		"god": 2014
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Rocky",
+		"god": 2019
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Sirion",
+		"god": 1998
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Terios",
+		"god": 1997
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "Trevis",
+		"god": 2006
+	},
+	{
+		"marca": "Daihatsu",
+		"model": "YRV",
+		"god": 2000
+	},
+	{
+		"marca": "Datsun",
+		"model": "mi-DO",
+		"god": 2014
+	},
+	{
+		"marca": "Datsun",
+		"model": "on-DO",
+		"god": 2014
+	},
+	{
+		"marca": "Dodge",
+		"model": "Avenger",
+		"god": 1994
+	},
+	{
+		"marca": "Dodge",
+		"model": "Caliber",
+		"god": 2006
+	},
+	{
+		"marca": "Dodge",
+		"model": "Caliber SRT4",
+		"god": 2007
+	},
+	{
+		"marca": "Dodge",
+		"model": "Caravan",
+		"god": 1995
+	},
+	{
+		"marca": "Dodge",
+		"model": "Challenger",
+		"god": 2008
+	},
+	{
+		"marca": "Dodge",
+		"model": "Charger",
+		"god": 2006
+	},
+	{
+		"marca": "Dodge",
+		"model": "Dakota",
+		"god": 2005
+	},
+	{
+		"marca": "Dodge",
+		"model": "Dart",
+		"god": 2012
+	},
+	{
+		"marca": "Dodge",
+		"model": "Durango",
+		"god": 1998
+	},
+	{
+		"marca": "Dodge",
+		"model": "Intrepid",
+		"god": 1998
+	},
+	{
+		"marca": "Dodge",
+		"model": "Journey",
+		"god": 2008
+	},
+	{
+		"marca": "Dodge",
+		"model": "Magnum",
+		"god": 2004
+	},
+	{
+		"marca": "Dodge",
+		"model": "Neon",
+		"god": 2000
+	},
+	{
+		"marca": "Dodge",
+		"model": "Nitro",
+		"god": 2007
+	},
+	{
+		"marca": "Dodge",
+		"model": "Ram 1500",
+		"god": 2001
+	},
+	{
+		"marca": "Dodge",
+		"model": "Ram 2500",
+		"god": 2002
+	},
+	{
+		"marca": "Dodge",
+		"model": "Ram 3500",
+		"god": 2002
+	},
+	{
+		"marca": "Dodge",
+		"model": "Ram SRT10",
+		"god": 2004
+	},
+	{
+		"marca": "Dodge",
+		"model": "Stratus",
+		"god": 2001
+	},
+	{
+		"marca": "Dodge",
+		"model": "Viper",
+		"god": 1996
+	},
+	{
+		"marca": "Dongfeng",
+		"model": 580,
+		"god": 2016
+	},
+	{
+		"marca": "Dongfeng",
+		"model": "A30",
+		"god": 2014
+	},
+	{
+		"marca": "Dongfeng",
+		"model": "AX7",
+		"god": 2014
+	},
+	{
+		"marca": "Dongfeng",
+		"model": "H30 Cross",
+		"god": 2013
+	},
+	{
+		"marca": "FAW",
+		"model": "Besturn B30",
+		"god": 2016
+	},
+	{
+		"marca": "FAW",
+		"model": "Besturn B50",
+		"god": 2009
+	},
+	{
+		"marca": "FAW",
+		"model": "Besturn X40",
+		"god": 2017
+	},
+	{
+		"marca": "FAW",
+		"model": "Besturn X80",
+		"god": 2014
+	},
+	{
+		"marca": "FAW",
+		"model": "Oley",
+		"god": 2012
+	},
+	{
+		"marca": "FAW",
+		"model": "Vita",
+		"god": 2006
+	},
+	{
+		"marca": "Ferrari",
+		"model": 348,
+		"god": 1993
+	},
+	{
+		"marca": "Ferrari",
+		"model": 360,
+		"god": 1999
+	},
+	{
+		"marca": "Ferrari",
+		"model": 456,
+		"god": 1992
+	},
+	{
+		"marca": "Ferrari",
+		"model": 458,
+		"god": 2009
+	},
+	{
+		"marca": "Ferrari",
+		"model": 488,
+		"god": 2015
+	},
+	{
+		"marca": "Ferrari",
+		"model": 512,
+		"god": 1991
+	},
+	{
+		"marca": "Ferrari",
+		"model": 550,
+		"god": 1996
+	},
+	{
+		"marca": "Ferrari",
+		"model": "575 M",
+		"god": 2002
+	},
+	{
+		"marca": "Ferrari",
+		"model": "599 GTB Fiorano",
+		"god": 2006
+	},
+	{
+		"marca": "Ferrari",
+		"model": "599 GTO",
+		"god": 2010
+	},
+	{
+		"marca": "Ferrari",
+		"model": 612,
+		"god": 2004
+	},
+	{
+		"marca": "Ferrari",
+		"model": 812,
+		"god": 2017
+	},
+	{
+		"marca": "Ferrari",
+		"model": "812 GTS",
+		"god": 2019
+	},
+	{
+		"marca": "Ferrari",
+		"model": "California",
+		"god": 2008
+	},
+	{
+		"marca": "Ferrari",
+		"model": "California T",
+		"god": 2014
+	},
+	{
+		"marca": "Ferrari",
+		"model": "Challenge Stradale",
+		"god": 2003
+	},
+	{
+		"marca": "Ferrari",
+		"model": "Enzo",
+		"god": 2002
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F12",
+		"god": 2012
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F355",
+		"god": 1994
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F430",
+		"god": 2004
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F50",
+		"god": 1995
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F512 M",
+		"god": 1994
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F8 Spider",
+		"god": 2019
+	},
+	{
+		"marca": "Ferrari",
+		"model": "F8 Tributo",
+		"god": 2019
+	},
+	{
+		"marca": "Ferrari",
+		"model": "FF",
+		"god": 2011
+	},
+	{
+		"marca": "Ferrari",
+		"model": "GTC4 Lusso",
+		"god": 2016
+	},
+	{
+		"marca": "Ferrari",
+		"model": "LaFerrari",
+		"god": 2013
+	},
+	{
+		"marca": "Ferrari",
+		"model": "Portofino",
+		"god": 2017
+	},
+	{
+		"marca": "Ferrari",
+		"model": "Roma",
+		"god": 2020
+	},
+	{
+		"marca": "Ferrari",
+		"model": "SF90 Stradale",
+		"god": 2019
+	},
+	{
+		"marca": "Fiat",
+		"model": "124 Spider",
+		"god": 2015
+	},
+	{
+		"marca": "Fiat",
+		"model": 500,
+		"god": 2007
+	},
+	{
+		"marca": "Fiat",
+		"model": "500L",
+		"god": 2012
+	},
+	{
+		"marca": "Fiat",
+		"model": "500X",
+		"god": 2014
+	},
+	{
+		"marca": "Fiat",
+		"model": "Albea",
+		"god": 2002
+	},
+	{
+		"marca": "Fiat",
+		"model": "Brava",
+		"god": 1995
+	},
+	{
+		"marca": "Fiat",
+		"model": "Bravo",
+		"god": 1995
+	},
+	{
+		"marca": "Fiat",
+		"model": "Coupe",
+		"god": 1993
+	},
+	{
+		"marca": "Fiat",
+		"model": "Croma",
+		"god": 2005
+	},
+	{
+		"marca": "Fiat",
+		"model": "Doblo",
+		"god": 2001
+	},
+	{
+		"marca": "Fiat",
+		"model": "Ducato",
+		"god": 2006
+	},
+	{
+		"marca": "Fiat",
+		"model": "Freemont",
+		"god": 2011
+	},
+	{
+		"marca": "Fiat",
+		"model": "Grande Punto",
+		"god": 2005
+	},
+	{
+		"marca": "Fiat",
+		"model": "Idea",
+		"god": 2004
+	},
+	{
+		"marca": "Fiat",
+		"model": "Linea",
+		"god": 2007
+	},
+	{
+		"marca": "Fiat",
+		"model": "Marea",
+		"god": 1996
+	},
+	{
+		"marca": "Fiat",
+		"model": "Multipla",
+		"god": 1998
+	},
+	{
+		"marca": "Fiat",
+		"model": "Palio",
+		"god": 1996
+	},
+	{
+		"marca": "Fiat",
+		"model": "Panda",
+		"god": 2003
+	},
+	{
+		"marca": "Fiat",
+		"model": "Panda 4x4",
+		"god": 2003
+	},
+	{
+		"marca": "Fiat",
+		"model": "Punto",
+		"god": 1999
+	},
+	{
+		"marca": "Fiat",
+		"model": "Qubo",
+		"god": 2008
+	},
+	{
+		"marca": "Fiat",
+		"model": "Sedici",
+		"god": 2005
+	},
+	{
+		"marca": "Fiat",
+		"model": "Siena",
+		"god": 2014
+	},
+	{
+		"marca": "Fiat",
+		"model": "Stilo",
+		"god": 2001
+	},
+	{
+		"marca": "Fiat",
+		"model": "Strada",
+		"god": 2014
+	},
+	{
+		"marca": "Fiat",
+		"model": "Tipo",
+		"god": 2015
+	},
+	{
+		"marca": "Fiat",
+		"model": "Ulysse",
+		"god": 2002
+	},
+	{
+		"marca": "Fisker",
+		"model": "Karma",
+		"god": 2011
+	},
+	{
+		"marca": "Ford",
+		"model": "B-Max",
+		"god": 2012
+	},
+	{
+		"marca": "Ford",
+		"model": "Bronco",
+		"god": 2021
+	},
+	{
+		"marca": "Ford",
+		"model": "Bronco Sport",
+		"god": 2021
+	},
+	{
+		"marca": "Ford",
+		"model": "C-Max",
+		"god": 2003
+	},
+	{
+		"marca": "Ford",
+		"model": "Cougar",
+		"god": 1998
+	},
+	{
+		"marca": "Ford",
+		"model": "Crown Victoria",
+		"god": 1999
+	},
+	{
+		"marca": "Ford",
+		"model": "EcoSport",
+		"god": 2003
+	},
+	{
+		"marca": "Ford",
+		"model": "Edge",
+		"god": 2007
+	},
+	{
+		"marca": "Ford",
+		"model": "Endura",
+		"god": 2018
+	},
+	{
+		"marca": "Ford",
+		"model": "Equator",
+		"god": 2021
+	},
+	{
+		"marca": "Ford",
+		"model": "Escape",
+		"god": 2001
+	},
+	{
+		"marca": "Ford",
+		"model": "Excursion",
+		"god": 1999
+	},
+	{
+		"marca": "Ford",
+		"model": "Expedition",
+		"god": 1998
+	},
+	{
+		"marca": "Ford",
+		"model": "Explorer",
+		"god": 1995
+	},
+	{
+		"marca": "Ford",
+		"model": "Explorer Sport Trac",
+		"god": 2007
+	},
+	{
+		"marca": "Ford",
+		"model": "F-150",
+		"god": 1997
+	},
+	{
+		"marca": "Ford",
+		"model": "F-250",
+		"god": 2011
+	},
+	{
+		"marca": "Ford",
+		"model": "F-350",
+		"god": 2017
+	},
+	{
+		"marca": "Ford",
+		"model": "Falcon",
+		"god": 2005
+	},
+	{
+		"marca": "Ford",
+		"model": "Fiesta",
+		"god": 2002
+	},
+	{
+		"marca": "Ford",
+		"model": "Five Hundred",
+		"god": 2005
+	},
+	{
+		"marca": "Ford",
+		"model": "Flex",
+		"god": 2008
+	},
+	{
+		"marca": "Ford",
+		"model": "Focus",
+		"god": 1998
+	},
+	{
+		"marca": "Ford",
+		"model": "Focus Active",
+		"god": 2018
+	},
+	{
+		"marca": "Ford",
+		"model": "Focus Electric",
+		"god": 2012
+	},
+	{
+		"marca": "Ford",
+		"model": "Freestar",
+		"god": 2003
+	},
+	{
+		"marca": "Ford",
+		"model": "Freestyle",
+		"god": 2004
+	},
+	{
+		"marca": "Ford",
+		"model": "Fusion",
+		"god": 2002
+	},
+	{
+		"marca": "Ford",
+		"model": "Galaxy",
+		"god": 1995
+	},
+	{
+		"marca": "Ford",
+		"model": "Ka",
+		"god": 2003
+	},
+	{
+		"marca": "Ford",
+		"model": "Kuga",
+		"god": 2008
+	},
+	{
+		"marca": "Ford",
+		"model": "Maverick",
+		"god": 1992
+	},
+	{
+		"marca": "Ford",
+		"model": "Mondeo",
+		"god": 2000
+	},
+	{
+		"marca": "Ford",
+		"model": "Mustang",
+		"god": 1995
+	},
+	{
+		"marca": "Ford",
+		"model": "Mustang Mach-E",
+		"god": 0
+	},
+	{
+		"marca": "Ford",
+		"model": "Mustang Shelby GT350",
+		"god": 2016
+	},
+	{
+		"marca": "Ford",
+		"model": "Mustang Shelby GT500",
+		"god": 2020
+	},
+	{
+		"marca": "Ford",
+		"model": "Puma",
+		"god": 1997
+	},
+	{
+		"marca": "Ford",
+		"model": "Ranger",
+		"god": 2006
+	},
+	{
+		"marca": "Ford",
+		"model": "S-Max",
+		"god": 2006
+	},
+	{
+		"marca": "Ford",
+		"model": "Taurus",
+		"god": 2000
+	},
+	{
+		"marca": "Ford",
+		"model": "Taurus X",
+		"god": 2007
+	},
+	{
+		"marca": "Ford",
+		"model": "Thunderbird",
+		"god": 2000
+	},
+	{
+		"marca": "Ford",
+		"model": "Tourneo Connect",
+		"god": 2002
+	},
+	{
+		"marca": "Ford",
+		"model": "Transit",
+		"god": 2001
+	},
+	{
+		"marca": "Ford",
+		"model": "Transit Connect",
+		"god": 2002
+	},
+	{
+		"marca": "Foton",
+		"model": "Sauvana",
+		"god": 2015
+	},
+	{
+		"marca": "GAC",
+		"model": "GS5",
+		"god": 2011
+	},
+	{
+		"marca": "GAC",
+		"model": "Trumpchi GM8",
+		"god": 2018
+	},
+	{
+		"marca": "GAC",
+		"model": "Trumpchi GS8",
+		"god": 2017
+	},
+	{
+		"marca": "GAZ",
+		"model": 3102,
+		"god": 1997
+	},
+	{
+		"marca": "GAZ",
+		"model": 31105,
+		"god": 1997
+	},
+	{
+		"marca": "GAZ",
+		"model": "Siber",
+		"god": 2008
+	},
+	{
+		"marca": "GAZ",
+		"model": "Sobol",
+		"god": 2002
+	},
+	{
+		"marca": "Geely",
+		"model": "Atlas",
+		"god": 2017
+	},
+	{
+		"marca": "Geely",
+		"model": "Coolray",
+		"god": 2018
+	},
+	{
+		"marca": "Geely",
+		"model": "Emgrand 7",
+		"god": 2016
+	},
+	{
+		"marca": "Geely",
+		"model": "Emgrand EC7",
+		"god": 2009
+	},
+	{
+		"marca": "Geely",
+		"model": "Emgrand GS",
+		"god": 2016
+	},
+	{
+		"marca": "Geely",
+		"model": "Emgrand X7",
+		"god": 2011
+	},
+	{
+		"marca": "Geely",
+		"model": "GC9",
+		"god": 2015
+	},
+	{
+		"marca": "Geely",
+		"model": "GС6",
+		"god": 2014
+	},
+	{
+		"marca": "Geely",
+		"model": "MK",
+		"god": 2008
+	},
+	{
+		"marca": "Geely",
+		"model": "Otaka",
+		"god": 2006
+	},
+	{
+		"marca": "Geely",
+		"model": "Tugella",
+		"god": 2019
+	},
+	{
+		"marca": "Geely",
+		"model": "Vision",
+		"god": 2006
+	},
+	{
+		"marca": "Genesis",
+		"model": "G70",
+		"god": 2018
+	},
+	{
+		"marca": "Genesis",
+		"model": "G80",
+		"god": 2017
+	},
+	{
+		"marca": "Genesis",
+		"model": "G90",
+		"god": 2016
+	},
+	{
+		"marca": "Genesis",
+		"model": "GV70",
+		"god": 2020
+	},
+	{
+		"marca": "Genesis",
+		"model": "GV80",
+		"god": 2020
+	},
+	{
+		"marca": "GMC",
+		"model": "Acadia",
+		"god": 2007
+	},
+	{
+		"marca": "GMC",
+		"model": "Canyon",
+		"god": 2004
+	},
+	{
+		"marca": "GMC",
+		"model": "Envoy",
+		"god": 2001
+	},
+	{
+		"marca": "GMC",
+		"model": "Sierra 1500",
+		"god": 1999
+	},
+	{
+		"marca": "GMC",
+		"model": "Sierra 2500",
+		"god": 1999
+	},
+	{
+		"marca": "GMC",
+		"model": "Sierra 3500",
+		"god": 2020
+	},
+	{
+		"marca": "GMC",
+		"model": "Terrain",
+		"god": 2010
+	},
+	{
+		"marca": "GMC",
+		"model": "Yukon",
+		"god": 2000
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Cowry",
+		"god": 2007
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Deer",
+		"god": 2003
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Hover",
+		"god": 2005
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Hover M2",
+		"god": 2010
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Pegasus",
+		"god": 2005
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Peri",
+		"god": 2007
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Safe",
+		"god": 2002
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Sailor",
+		"god": 2004
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Sing",
+		"god": 2004
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Socool",
+		"god": 2004
+	},
+	{
+		"marca": "Great Wall",
+		"model": "Wingle",
+		"god": 2008
+	},
+	{
+		"marca": "Haval",
+		"model": "F7",
+		"god": 2018
+	},
+	{
+		"marca": "Haval",
+		"model": "F7x",
+		"god": 2019
+	},
+	{
+		"marca": "Haval",
+		"model": "H4",
+		"god": 2018
+	},
+	{
+		"marca": "Haval",
+		"model": "H6",
+		"god": 2017
+	},
+	{
+		"marca": "Haval",
+		"model": "H9",
+		"god": 2015
+	},
+	{
+		"marca": "Holden",
+		"model": "Commodore",
+		"god": 2004
+	},
+	{
+		"marca": "Holden",
+		"model": "Corvette C8",
+		"god": 2020
+	},
+	{
+		"marca": "Honda",
+		"model": "Accord",
+		"god": 1998
+	},
+	{
+		"marca": "Honda",
+		"model": "Amaze",
+		"god": 2011
+	},
+	{
+		"marca": "Honda",
+		"model": "City",
+		"god": 2014
+	},
+	{
+		"marca": "Honda",
+		"model": "Civic",
+		"god": 2001
+	},
+	{
+		"marca": "Honda",
+		"model": "Civic Type R",
+		"god": 2017
+	},
+	{
+		"marca": "Honda",
+		"model": "CR-V",
+		"god": 1995
+	},
+	{
+		"marca": "Honda",
+		"model": "CR-Z",
+		"god": 2010
+	},
+	{
+		"marca": "Honda",
+		"model": "Crosstour",
+		"god": 2010
+	},
+	{
+		"marca": "Honda",
+		"model": "Element",
+		"god": 2003
+	},
+	{
+		"marca": "Honda",
+		"model": "Fit",
+		"god": 2001
+	},
+	{
+		"marca": "Honda",
+		"model": "FR-V",
+		"god": 2004
+	},
+	{
+		"marca": "Honda",
+		"model": "HR-V",
+		"god": 1998
+	},
+	{
+		"marca": "Honda",
+		"model": "HR-V II (GJ)",
+		"god": 2014
+	},
+	{
+		"marca": "Honda",
+		"model": "Insight",
+		"god": 1999
+	},
+	{
+		"marca": "Honda",
+		"model": "Jade",
+		"god": 2013
+	},
+	{
+		"marca": "Honda",
+		"model": "Jazz",
+		"god": 2001
+	},
+	{
+		"marca": "Honda",
+		"model": "Legend",
+		"god": 2006
+	},
+	{
+		"marca": "Honda",
+		"model": "Odyssey",
+		"god": 1999
+	},
+	{
+		"marca": "Honda",
+		"model": "Pilot",
+		"god": 2002
+	},
+	{
+		"marca": "Honda",
+		"model": "Prelude",
+		"god": 1996
+	},
+	{
+		"marca": "Honda",
+		"model": "Ridgeline",
+		"god": 2005
+	},
+	{
+		"marca": "Honda",
+		"model": "S2000",
+		"god": 1999
+	},
+	{
+		"marca": "Honda",
+		"model": "Shuttle",
+		"god": 1994
+	},
+	{
+		"marca": "Honda",
+		"model": "Stream",
+		"god": 2001
+	},
+	{
+		"marca": "Honda",
+		"model": "Vezel",
+		"god": 2013
+	},
+	{
+		"marca": "Hummer",
+		"model": "H1",
+		"god": 1992
+	},
+	{
+		"marca": "Hummer",
+		"model": "H2",
+		"god": 2003
+	},
+	{
+		"marca": "Hummer",
+		"model": "H3",
+		"god": 2005
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Accent",
+		"god": 2000
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Atos Prime",
+		"god": 1999
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Azera",
+		"god": 2006
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Bayon",
+		"god": 2021
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Centennial",
+		"god": 1999
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Creta",
+		"god": 2015
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Elantra",
+		"god": 2000
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Entourage",
+		"god": 2007
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Eon",
+		"god": 2011
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Equus",
+		"god": 2009
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Galloper",
+		"god": 1998
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Genesis",
+		"god": 2008
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Genesis Coupe",
+		"god": 2008
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Getz",
+		"god": 2002
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Grandeur",
+		"god": 2005
+	},
+	{
+		"marca": "Hyundai",
+		"model": "H-1",
+		"god": 1998
+	},
+	{
+		"marca": "Hyundai",
+		"model": "i10",
+		"god": 2008
+	},
+	{
+		"marca": "Hyundai",
+		"model": "i20",
+		"god": 2008
+	},
+	{
+		"marca": "Hyundai",
+		"model": "i30",
+		"god": 2007
+	},
+	{
+		"marca": "Hyundai",
+		"model": "i30 N",
+		"god": 2017
+	},
+	{
+		"marca": "Hyundai",
+		"model": "i40",
+		"god": 2011
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Ioniq",
+		"god": 2016
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Ioniq 5",
+		"god": 2021
+	},
+	{
+		"marca": "Hyundai",
+		"model": "ix20",
+		"god": 2010
+	},
+	{
+		"marca": "Hyundai",
+		"model": "ix35",
+		"god": 2010
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Kona",
+		"god": 2017
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Matrix",
+		"god": 2001
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Palisade",
+		"god": 2018
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Porter",
+		"god": 1996
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Santa Fe",
+		"god": 2001
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Solaris",
+		"god": 2010
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Sonata",
+		"god": 1998
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Terracan",
+		"god": 2001
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Trajet",
+		"god": 2000
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Tucson",
+		"god": 2004
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Veloster",
+		"god": 2011
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Venue",
+		"god": 2019
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Veracruz",
+		"god": 2007
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Verna",
+		"god": 2005
+	},
+	{
+		"marca": "Hyundai",
+		"model": "Xcent",
+		"god": 2014
+	},
+	{
+		"marca": "Hyundai",
+		"model": "XG",
+		"god": 1998
+	},
+	{
+		"marca": "Infiniti",
+		"model": "EX",
+		"god": 2008
+	},
+	{
+		"marca": "Infiniti",
+		"model": "FX",
+		"god": 2003
+	},
+	{
+		"marca": "Infiniti",
+		"model": "G",
+		"god": 2003
+	},
+	{
+		"marca": "Infiniti",
+		"model": "I35",
+		"god": 2002
+	},
+	{
+		"marca": "Infiniti",
+		"model": "JX",
+		"god": 2012
+	},
+	{
+		"marca": "Infiniti",
+		"model": "M",
+		"god": 2001
+	},
+	{
+		"marca": "Infiniti",
+		"model": "Q30",
+		"god": 2016
+	},
+	{
+		"marca": "Infiniti",
+		"model": "Q40",
+		"god": 2014
+	},
+	{
+		"marca": "Infiniti",
+		"model": "Q45",
+		"god": 2002
+	},
+	{
+		"marca": "Infiniti",
+		"model": "Q50",
+		"god": 2013
+	},
+	{
+		"marca": "Infiniti",
+		"model": "Q60",
+		"god": 2013
+	},
+	{
+		"marca": "Infiniti",
+		"model": "Q70",
+		"god": 2013
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX30",
+		"god": 2016
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX4",
+		"god": 1997
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX50",
+		"god": 2013
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX55",
+		"god": 2021
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX56",
+		"god": 2004
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX60",
+		"god": 2013
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX70",
+		"god": 2013
+	},
+	{
+		"marca": "Infiniti",
+		"model": "QX80",
+		"god": 2013
+	},
+	{
+		"marca": "Isuzu",
+		"model": "Ascender",
+		"god": 2002
+	},
+	{
+		"marca": "Isuzu",
+		"model": "Axiom",
+		"god": 2002
+	},
+	{
+		"marca": "Isuzu",
+		"model": "D-Max",
+		"god": 2011
+	},
+	{
+		"marca": "Isuzu",
+		"model": "D-Max Rodeo",
+		"god": 2007
+	},
+	{
+		"marca": "Isuzu",
+		"model": "I280",
+		"god": 2005
+	},
+	{
+		"marca": "Isuzu",
+		"model": "I290",
+		"god": 2007
+	},
+	{
+		"marca": "Isuzu",
+		"model": "I350",
+		"god": 2005
+	},
+	{
+		"marca": "Isuzu",
+		"model": "I370",
+		"god": 2007
+	},
+	{
+		"marca": "Isuzu",
+		"model": "Rodeo",
+		"god": 1998
+	},
+	{
+		"marca": "Isuzu",
+		"model": "Trooper",
+		"god": 1992
+	},
+	{
+		"marca": "Isuzu",
+		"model": "VehiCross",
+		"god": 1997
+	},
+	{
+		"marca": "Iveco",
+		"model": "Daily",
+		"god": 2006
+	},
+	{
+		"marca": "Jac",
+		"model": "iEV7S",
+		"god": 2017
+	},
+	{
+		"marca": "Jac",
+		"model": "T6",
+		"god": 2015
+	},
+	{
+		"marca": "Jaguar",
+		"model": "E-Pace",
+		"god": 2017
+	},
+	{
+		"marca": "Jaguar",
+		"model": "F-Pace",
+		"god": 2015
+	},
+	{
+		"marca": "Jaguar",
+		"model": "F-Type",
+		"god": 2013
+	},
+	{
+		"marca": "Jaguar",
+		"model": "I-Pace",
+		"god": 2018
+	},
+	{
+		"marca": "Jaguar",
+		"model": "S-Type",
+		"god": 1998
+	},
+	{
+		"marca": "Jaguar",
+		"model": "X-Type",
+		"god": 2001
+	},
+	{
+		"marca": "Jaguar",
+		"model": "XE",
+		"god": 2015
+	},
+	{
+		"marca": "Jaguar",
+		"model": "XF",
+		"god": 2007
+	},
+	{
+		"marca": "Jaguar",
+		"model": "XJ",
+		"god": 1997
+	},
+	{
+		"marca": "Jaguar",
+		"model": "XK/XKR",
+		"god": 2002
+	},
+	{
+		"marca": "Jeep",
+		"model": "Cherokee",
+		"god": 2002
+	},
+	{
+		"marca": "Jeep",
+		"model": "Commander",
+		"god": 2006
+	},
+	{
+		"marca": "Jeep",
+		"model": "Compass",
+		"god": 2007
+	},
+	{
+		"marca": "Jeep",
+		"model": "Gladiator",
+		"god": 2019
+	},
+	{
+		"marca": "Jeep",
+		"model": "Grand Cherokee",
+		"god": 1999
+	},
+	{
+		"marca": "Jeep",
+		"model": "Liberty",
+		"god": 2006
+	},
+	{
+		"marca": "Jeep",
+		"model": "Patriot",
+		"god": 2006
+	},
+	{
+		"marca": "Jeep",
+		"model": "Renegade",
+		"god": 2014
+	},
+	{
+		"marca": "Jeep",
+		"model": "Wrangler",
+		"god": 1997
+	},
+	{
+		"marca": "Kia",
+		"model": "Carens",
+		"god": 2002
+	},
+	{
+		"marca": "Kia",
+		"model": "Carnival",
+		"god": 1999
+	},
+	{
+		"marca": "Kia",
+		"model": "Ceed",
+		"god": 2006
+	},
+	{
+		"marca": "Kia",
+		"model": "Cerato",
+		"god": 2004
+	},
+	{
+		"marca": "Kia",
+		"model": "Clarus",
+		"god": 1998
+	},
+	{
+		"marca": "Kia",
+		"model": "Forte",
+		"god": 2008
+	},
+	{
+		"marca": "Kia",
+		"model": "K5",
+		"god": 2020
+	},
+	{
+		"marca": "Kia",
+		"model": "K8",
+		"god": 2021
+	},
+	{
+		"marca": "Kia",
+		"model": "K900",
+		"god": 2019
+	},
+	{
+		"marca": "Kia",
+		"model": "Magentis",
+		"god": 2001
+	},
+	{
+		"marca": "Kia",
+		"model": "Mohave",
+		"god": 2008
+	},
+	{
+		"marca": "Kia",
+		"model": "Niro",
+		"god": 2016
+	},
+	{
+		"marca": "Kia",
+		"model": "Opirus",
+		"god": 2003
+	},
+	{
+		"marca": "Kia",
+		"model": "Optima",
+		"god": 2010
+	},
+	{
+		"marca": "Kia",
+		"model": "Picanto",
+		"god": 2004
+	},
+	{
+		"marca": "Kia",
+		"model": "ProCeed",
+		"god": 2019
+	},
+	{
+		"marca": "Kia",
+		"model": "Quoris",
+		"god": 2012
+	},
+	{
+		"marca": "Kia",
+		"model": "Ray",
+		"god": 2011
+	},
+	{
+		"marca": "Kia",
+		"model": "Rio",
+		"god": 2000
+	},
+	{
+		"marca": "Kia",
+		"model": "Rio X-Line",
+		"god": 2017
+	},
+	{
+		"marca": "Kia",
+		"model": "Seltos",
+		"god": 2019
+	},
+	{
+		"marca": "Kia",
+		"model": "Shuma",
+		"god": 1997
+	},
+	{
+		"marca": "Kia",
+		"model": "Sonet",
+		"god": 2020
+	},
+	{
+		"marca": "Kia",
+		"model": "Sorento",
+		"god": 2002
+	},
+	{
+		"marca": "Kia",
+		"model": "Sorento Prime",
+		"god": 2015
+	},
+	{
+		"marca": "Kia",
+		"model": "Soul",
+		"god": 2009
+	},
+	{
+		"marca": "Kia",
+		"model": "Spectra",
+		"god": 2005
+	},
+	{
+		"marca": "Kia",
+		"model": "Sportage",
+		"god": 1993
+	},
+	{
+		"marca": "Kia",
+		"model": "Stinger",
+		"god": 2017
+	},
+	{
+		"marca": "Kia",
+		"model": "Stonic",
+		"god": 2017
+	},
+	{
+		"marca": "Kia",
+		"model": "Telluride",
+		"god": 2019
+	},
+	{
+		"marca": "Kia",
+		"model": "Venga",
+		"god": 2009
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Aventador",
+		"god": 2011
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Centenario",
+		"god": 2016
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Diablo",
+		"god": 1991
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Gallardo",
+		"god": 2003
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Huracan",
+		"god": 2014
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Murcielago",
+		"god": 2003
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Reventon",
+		"god": 2008
+	},
+	{
+		"marca": "Lamborghini",
+		"model": "Urus",
+		"god": 2018
+	},
+	{
+		"marca": "Lancia",
+		"model": "Delta",
+		"god": 2008
+	},
+	{
+		"marca": "Lancia",
+		"model": "Lybra",
+		"god": 1999
+	},
+	{
+		"marca": "Lancia",
+		"model": "Musa",
+		"god": 2004
+	},
+	{
+		"marca": "Lancia",
+		"model": "Phedra",
+		"god": 2002
+	},
+	{
+		"marca": "Lancia",
+		"model": "Thema",
+		"god": 2011
+	},
+	{
+		"marca": "Lancia",
+		"model": "Thesis",
+		"god": 2001
+	},
+	{
+		"marca": "Lancia",
+		"model": "Ypsilon",
+		"god": 2003
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Defender",
+		"god": 2007
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Discovery",
+		"god": 1998
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Discovery Sport",
+		"god": 2014
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Evoque",
+		"god": 2011
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Freelander",
+		"god": 1998
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Range Rover",
+		"god": 1994
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Range Rover Sport",
+		"god": 2004
+	},
+	{
+		"marca": "Land Rover",
+		"model": "Range Rover Velar",
+		"god": 2017
+	},
+	{
+		"marca": "Lexus",
+		"model": "CT",
+		"god": 2010
+	},
+	{
+		"marca": "Lexus",
+		"model": "ES",
+		"god": 2001
+	},
+	{
+		"marca": "Lexus",
+		"model": "GS",
+		"god": 1997
+	},
+	{
+		"marca": "Lexus",
+		"model": "GX",
+		"god": 2002
+	},
+	{
+		"marca": "Lexus",
+		"model": "HS",
+		"god": 2009
+	},
+	{
+		"marca": "Lexus",
+		"model": "IS",
+		"god": 1998
+	},
+	{
+		"marca": "Lexus",
+		"model": "LC",
+		"god": 2017
+	},
+	{
+		"marca": "Lexus",
+		"model": "LFA",
+		"god": 2010
+	},
+	{
+		"marca": "Lexus",
+		"model": "LM",
+		"god": 2019
+	},
+	{
+		"marca": "Lexus",
+		"model": "LS",
+		"god": 1995
+	},
+	{
+		"marca": "Lexus",
+		"model": "LX",
+		"god": 1998
+	},
+	{
+		"marca": "Lexus",
+		"model": "NX",
+		"god": 2014
+	},
+	{
+		"marca": "Lexus",
+		"model": "RC",
+		"god": 2014
+	},
+	{
+		"marca": "Lexus",
+		"model": "RX",
+		"god": 1997
+	},
+	{
+		"marca": "Lexus",
+		"model": "SC",
+		"god": 1999
+	},
+	{
+		"marca": "Lexus",
+		"model": "UX",
+		"god": 2018
+	},
+	{
+		"marca": "Lifan",
+		"model": "Breez",
+		"god": 2007
+	},
+	{
+		"marca": "Lifan",
+		"model": "Cebrium",
+		"god": 2013
+	},
+	{
+		"marca": "Lifan",
+		"model": "Celliya",
+		"god": 2013
+	},
+	{
+		"marca": "Lifan",
+		"model": "Smily",
+		"god": 2008
+	},
+	{
+		"marca": "Lifan",
+		"model": "Solano",
+		"god": 2008
+	},
+	{
+		"marca": "Lifan",
+		"model": "X50",
+		"god": 2014
+	},
+	{
+		"marca": "Lifan",
+		"model": "X60",
+		"god": 2011
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Aviator",
+		"god": 2003
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Corsair",
+		"god": 2019
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Mark LT",
+		"god": 2006
+	},
+	{
+		"marca": "Lincoln",
+		"model": "MKC",
+		"god": 2014
+	},
+	{
+		"marca": "Lincoln",
+		"model": "MKS",
+		"god": 2008
+	},
+	{
+		"marca": "Lincoln",
+		"model": "MKT",
+		"god": 2009
+	},
+	{
+		"marca": "Lincoln",
+		"model": "MKX",
+		"god": 2006
+	},
+	{
+		"marca": "Lincoln",
+		"model": "MKZ",
+		"god": 2006
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Nautilus",
+		"god": 2019
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Navigator",
+		"god": 1997
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Town Car",
+		"god": 1998
+	},
+	{
+		"marca": "Lincoln",
+		"model": "Zephyr",
+		"god": 2006
+	},
+	{
+		"marca": "Lotus",
+		"model": "Elise",
+		"god": 2001
+	},
+	{
+		"marca": "Lotus",
+		"model": "Europa S",
+		"god": 2005
+	},
+	{
+		"marca": "Lotus",
+		"model": "Evora",
+		"god": 2009
+	},
+	{
+		"marca": "Lotus",
+		"model": "Exige",
+		"god": 2001
+	},
+	{
+		"marca": "Marussia",
+		"model": "B1",
+		"god": 2008
+	},
+	{
+		"marca": "Marussia",
+		"model": "B2",
+		"god": 2010
+	},
+	{
+		"marca": "Maserati",
+		"model": "3200 GT",
+		"god": 1998
+	},
+	{
+		"marca": "Maserati",
+		"model": "Ghibli",
+		"god": 2013
+	},
+	{
+		"marca": "Maserati",
+		"model": "Gran Cabrio",
+		"god": 2010
+	},
+	{
+		"marca": "Maserati",
+		"model": "Gran Turismo",
+		"god": 2007
+	},
+	{
+		"marca": "Maserati",
+		"model": "Gran Turismo S",
+		"god": 2008
+	},
+	{
+		"marca": "Maserati",
+		"model": "Levante",
+		"god": 2016
+	},
+	{
+		"marca": "Maserati",
+		"model": "Quattroporte",
+		"god": 2003
+	},
+	{
+		"marca": "Maserati",
+		"model": "Quattroporte S",
+		"god": 2007
+	},
+	{
+		"marca": "Maybach",
+		"model": 57,
+		"god": 2002
+	},
+	{
+		"marca": "Maybach",
+		"model": "57 S",
+		"god": 2007
+	},
+	{
+		"marca": "Maybach",
+		"model": 62,
+		"god": 2002
+	},
+	{
+		"marca": "Maybach",
+		"model": "62 S",
+		"god": 2007
+	},
+	{
+		"marca": "Maybach",
+		"model": "Landaulet",
+		"god": 2003
+	},
+	{
+		"marca": "Mazda",
+		"model": 2,
+		"god": 2003
+	},
+	{
+		"marca": "Mazda",
+		"model": 3,
+		"god": 2003
+	},
+	{
+		"marca": "Mazda",
+		"model": 323,
+		"god": 1998
+	},
+	{
+		"marca": "Mazda",
+		"model": 5,
+		"god": 2005
+	},
+	{
+		"marca": "Mazda",
+		"model": 6,
+		"god": 2002
+	},
+	{
+		"marca": "Mazda",
+		"model": 626,
+		"god": 1997
+	},
+	{
+		"marca": "Mazda",
+		"model": "B-Series",
+		"god": 1999
+	},
+	{
+		"marca": "Mazda",
+		"model": "BT-50",
+		"god": 2011
+	},
+	{
+		"marca": "Mazda",
+		"model": "CX-3",
+		"god": 2015
+	},
+	{
+		"marca": "Mazda",
+		"model": "CX-30",
+		"god": 2019
+	},
+	{
+		"marca": "Mazda",
+		"model": "CX-5",
+		"god": 2012
+	},
+	{
+		"marca": "Mazda",
+		"model": "CX-7",
+		"god": 2006
+	},
+	{
+		"marca": "Mazda",
+		"model": "CX-8",
+		"god": 2017
+	},
+	{
+		"marca": "Mazda",
+		"model": "CX-9",
+		"god": 2007
+	},
+	{
+		"marca": "Mazda",
+		"model": "MPV",
+		"god": 1999
+	},
+	{
+		"marca": "Mazda",
+		"model": "MX-30",
+		"god": 2020
+	},
+	{
+		"marca": "Mazda",
+		"model": "MX-5",
+		"god": 1998
+	},
+	{
+		"marca": "Mazda",
+		"model": "Premacy",
+		"god": 1999
+	},
+	{
+		"marca": "Mazda",
+		"model": "RX-7",
+		"god": 1992
+	},
+	{
+		"marca": "Mazda",
+		"model": "RX-8",
+		"god": 2003
+	},
+	{
+		"marca": "Mazda",
+		"model": "Tribute",
+		"god": 2000
+	},
+	{
+		"marca": "McLaren",
+		"model": "540C",
+		"god": 2015
+	},
+	{
+		"marca": "McLaren",
+		"model": "570S",
+		"god": 2015
+	},
+	{
+		"marca": "McLaren",
+		"model": "600LT",
+		"god": 2018
+	},
+	{
+		"marca": "McLaren",
+		"model": "650S",
+		"god": 2014
+	},
+	{
+		"marca": "McLaren",
+		"model": "675LT",
+		"god": 2015
+	},
+	{
+		"marca": "McLaren",
+		"model": "720S",
+		"god": 2017
+	},
+	{
+		"marca": "McLaren",
+		"model": "765LT",
+		"god": 2020
+	},
+	{
+		"marca": "McLaren",
+		"model": "MP4-12C",
+		"god": 2011
+	},
+	{
+		"marca": "McLaren",
+		"model": "P1",
+		"god": 2013
+	},
+	{
+		"marca": "Mercedes",
+		"model": "A-class",
+		"god": 1997
+	},
+	{
+		"marca": "Mercedes",
+		"model": "AMG GT",
+		"god": 2014
+	},
+	{
+		"marca": "Mercedes",
+		"model": "AMG GT 4-Door",
+		"god": 2018
+	},
+	{
+		"marca": "Mercedes",
+		"model": "B-class",
+		"god": 2005
+	},
+	{
+		"marca": "Mercedes",
+		"model": "C-class",
+		"god": 1997
+	},
+	{
+		"marca": "Mercedes",
+		"model": "C-class Sport Coupe",
+		"god": 2001
+	},
+	{
+		"marca": "Mercedes",
+		"model": "Citan",
+		"god": 2012
+	},
+	{
+		"marca": "Mercedes",
+		"model": "CL-class",
+		"god": 1992
+	},
+	{
+		"marca": "Mercedes",
+		"model": "CLA-class",
+		"god": 2013
+	},
+	{
+		"marca": "Mercedes",
+		"model": "CLC-class",
+		"god": 2008
+	},
+	{
+		"marca": "Mercedes",
+		"model": "CLK-class",
+		"god": 1997
+	},
+	{
+		"marca": "Mercedes",
+		"model": "CLS-class",
+		"god": 2004
+	},
+	{
+		"marca": "Mercedes",
+		"model": "E-class",
+		"god": 1995
+	},
+	{
+		"marca": "Mercedes",
+		"model": "E-class Coupe",
+		"god": 2017
+	},
+	{
+		"marca": "Mercedes",
+		"model": "EQA",
+		"god": 2021
+	},
+	{
+		"marca": "Mercedes",
+		"model": "EQC",
+		"god": 2019
+	},
+	{
+		"marca": "Mercedes",
+		"model": "EQS",
+		"god": 2021
+	},
+	{
+		"marca": "Mercedes",
+		"model": "EQV",
+		"god": 2021
+	},
+	{
+		"marca": "Mercedes",
+		"model": "G-class",
+		"god": 1996
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GL-class",
+		"god": 2006
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLA-class",
+		"god": 2013
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLB-class",
+		"god": 2019
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLC-class",
+		"god": 2015
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLC-class Coupe",
+		"god": 2016
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLE-class",
+		"god": 2015
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLE-class Coupe",
+		"god": 2015
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLK-class",
+		"god": 2008
+	},
+	{
+		"marca": "Mercedes",
+		"model": "GLS-class",
+		"god": 2015
+	},
+	{
+		"marca": "Mercedes",
+		"model": "M-class",
+		"god": 1997
+	},
+	{
+		"marca": "Mercedes",
+		"model": "R-class",
+		"god": 2005
+	},
+	{
+		"marca": "Mercedes",
+		"model": "S-class",
+		"god": 1990
+	},
+	{
+		"marca": "Mercedes",
+		"model": "S-class Cabrio",
+		"god": 2015
+	},
+	{
+		"marca": "Mercedes",
+		"model": "S-class Coupe",
+		"god": 2015
+	},
+	{
+		"marca": "Mercedes",
+		"model": "SL-class",
+		"god": 2001
+	},
+	{
+		"marca": "Mercedes",
+		"model": "SLC-class",
+		"god": 2018
+	},
+	{
+		"marca": "Mercedes",
+		"model": "SLK-class",
+		"god": 1996
+	},
+	{
+		"marca": "Mercedes",
+		"model": "SLR-class",
+		"god": 2003
+	},
+	{
+		"marca": "Mercedes",
+		"model": "SLS AMG",
+		"god": 2010
+	},
+	{
+		"marca": "Mercedes",
+		"model": "Sprinter",
+		"god": 2000
+	},
+	{
+		"marca": "Mercedes",
+		"model": "Vaneo",
+		"god": 2001
+	},
+	{
+		"marca": "Mercedes",
+		"model": "Viano",
+		"god": 2003
+	},
+	{
+		"marca": "Mercedes",
+		"model": "Vito",
+		"god": 1999
+	},
+	{
+		"marca": "Mercedes",
+		"model": "X-class",
+		"god": 2018
+	},
+	{
+		"marca": "Mercury",
+		"model": "Grand Marquis",
+		"god": 2003
+	},
+	{
+		"marca": "Mercury",
+		"model": "Mariner",
+		"god": 2005
+	},
+	{
+		"marca": "Mercury",
+		"model": "Milan",
+		"god": 2006
+	},
+	{
+		"marca": "Mercury",
+		"model": "Montego",
+		"god": 2004
+	},
+	{
+		"marca": "Mercury",
+		"model": "Monterey",
+		"god": 1991
+	},
+	{
+		"marca": "Mercury",
+		"model": "Mountaineer",
+		"god": 2003
+	},
+	{
+		"marca": "Mercury",
+		"model": "Sable",
+		"god": 1995
+	},
+	{
+		"marca": "MG",
+		"model": "TF",
+		"god": 2002
+	},
+	{
+		"marca": "MG",
+		"model": "XPower SV",
+		"god": 2003
+	},
+	{
+		"marca": "MG",
+		"model": "ZR",
+		"god": 2001
+	},
+	{
+		"marca": "MG",
+		"model": "ZS",
+		"god": 2001
+	},
+	{
+		"marca": "MG",
+		"model": "ZT",
+		"god": 2001
+	},
+	{
+		"marca": "MG",
+		"model": "ZT-T",
+		"god": 2001
+	},
+	{
+		"marca": "Mini",
+		"model": "Clubman",
+		"god": 2007
+	},
+	{
+		"marca": "Mini",
+		"model": "Clubman S",
+		"god": 2007
+	},
+	{
+		"marca": "Mini",
+		"model": "Clubvan",
+		"god": 2012
+	},
+	{
+		"marca": "Mini",
+		"model": "Cooper",
+		"god": 2001
+	},
+	{
+		"marca": "Mini",
+		"model": "Cooper Cabrio",
+		"god": 2001
+	},
+	{
+		"marca": "Mini",
+		"model": "Cooper S",
+		"god": 2001
+	},
+	{
+		"marca": "Mini",
+		"model": "Cooper S Cabrio",
+		"god": 2001
+	},
+	{
+		"marca": "Mini",
+		"model": "Cooper S Countryman All4",
+		"god": 2010
+	},
+	{
+		"marca": "Mini",
+		"model": "Countryman",
+		"god": 2010
+	},
+	{
+		"marca": "Mini",
+		"model": "One",
+		"god": 2001
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "3000 GT",
+		"god": 1992
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "ASX",
+		"god": 2010
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Carisma",
+		"god": 1995
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Colt",
+		"god": 1995
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Dignity",
+		"god": 2012
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Eclipse",
+		"god": 1995
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Eclipse Cross",
+		"god": 2017
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Endeavor",
+		"god": 2004
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Galant",
+		"god": 1996
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Grandis",
+		"god": 2003
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "i-MiEV",
+		"god": 2009
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "L200",
+		"god": 1996
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Lancer",
+		"god": 1996
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Lancer Evo",
+		"god": 2001
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Mirage",
+		"god": 2012
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Outlander",
+		"god": 2003
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Outlander Sport",
+		"god": 2010
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Outlander XL",
+		"god": 2006
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Pajero",
+		"god": 1990
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Pajero Pinin",
+		"god": 1999
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Pajero Sport",
+		"god": 1998
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Raider",
+		"god": 2006
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Space Gear",
+		"god": 1995
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Space Runner",
+		"god": 1999
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Space Star",
+		"god": 1998
+	},
+	{
+		"marca": "Mitsubishi",
+		"model": "Xpander",
+		"god": 2017
+	},
+	{
+		"marca": "Nissan",
+		"model": "350Z",
+		"god": 2002
+	},
+	{
+		"marca": "Nissan",
+		"model": "370Z",
+		"god": 2009
+	},
+	{
+		"marca": "Nissan",
+		"model": "Almera",
+		"god": 2000
+	},
+	{
+		"marca": "Nissan",
+		"model": "Almera Classic",
+		"god": 2005
+	},
+	{
+		"marca": "Nissan",
+		"model": "Almera Tino",
+		"god": 2000
+	},
+	{
+		"marca": "Nissan",
+		"model": "Altima",
+		"god": 2002
+	},
+	{
+		"marca": "Nissan",
+		"model": "Ariya",
+		"god": 2020
+	},
+	{
+		"marca": "Nissan",
+		"model": "Armada",
+		"god": 2003
+	},
+	{
+		"marca": "Nissan",
+		"model": "Bluebird Sylphy",
+		"god": 2000
+	},
+	{
+		"marca": "Nissan",
+		"model": "Frontier",
+		"god": 1998
+	},
+	{
+		"marca": "Nissan",
+		"model": "GT-R",
+		"god": 2007
+	},
+	{
+		"marca": "Nissan",
+		"model": "Juke",
+		"god": 2011
+	},
+	{
+		"marca": "Nissan",
+		"model": "Leaf",
+		"god": 2010
+	},
+	{
+		"marca": "Nissan",
+		"model": "Maxima",
+		"god": 2000
+	},
+	{
+		"marca": "Nissan",
+		"model": "Micra",
+		"god": 2003
+	},
+	{
+		"marca": "Nissan",
+		"model": "Murano",
+		"god": 2002
+	},
+	{
+		"marca": "Nissan",
+		"model": "Navara",
+		"god": 2005
+	},
+	{
+		"marca": "Nissan",
+		"model": "Note",
+		"god": 2005
+	},
+	{
+		"marca": "Nissan",
+		"model": "NP300",
+		"god": 2008
+	},
+	{
+		"marca": "Nissan",
+		"model": "Pathfinder",
+		"god": 1997
+	},
+	{
+		"marca": "Nissan",
+		"model": "Patrol",
+		"god": 1997
+	},
+	{
+		"marca": "Nissan",
+		"model": "Primera",
+		"god": 1996
+	},
+	{
+		"marca": "Nissan",
+		"model": "Qashqai",
+		"god": 2007
+	},
+	{
+		"marca": "Nissan",
+		"model": "Qashqai+2",
+		"god": 2008
+	},
+	{
+		"marca": "Nissan",
+		"model": "Quest",
+		"god": 2003
+	},
+	{
+		"marca": "Nissan",
+		"model": "Rogue",
+		"god": 2008
+	},
+	{
+		"marca": "Nissan",
+		"model": "Sentra",
+		"god": 1999
+	},
+	{
+		"marca": "Nissan",
+		"model": "Skyline",
+		"god": 2001
+	},
+	{
+		"marca": "Nissan",
+		"model": "Sylphy",
+		"god": 2012
+	},
+	{
+		"marca": "Nissan",
+		"model": "Teana",
+		"god": 2005
+	},
+	{
+		"marca": "Nissan",
+		"model": "Terrano",
+		"god": 1993
+	},
+	{
+		"marca": "Nissan",
+		"model": "Tiida",
+		"god": 2007
+	},
+	{
+		"marca": "Nissan",
+		"model": "Titan",
+		"god": 2003
+	},
+	{
+		"marca": "Nissan",
+		"model": "Titan XD",
+		"god": 2016
+	},
+	{
+		"marca": "Nissan",
+		"model": "X-Trail",
+		"god": 2001
+	},
+	{
+		"marca": "Nissan",
+		"model": "XTerra",
+		"god": 2001
+	},
+	{
+		"marca": "Nissan",
+		"model": "Z",
+		"god": 2003
+	},
+	{
+		"marca": "Noble",
+		"model": "M600",
+		"god": 2010
+	},
+	{
+		"marca": "Opel",
+		"model": "Adam",
+		"god": 2013
+	},
+	{
+		"marca": "Opel",
+		"model": "Agila",
+		"god": 2000
+	},
+	{
+		"marca": "Opel",
+		"model": "Ampera-e",
+		"god": 2017
+	},
+	{
+		"marca": "Opel",
+		"model": "Antara",
+		"god": 2006
+	},
+	{
+		"marca": "Opel",
+		"model": "Astra",
+		"god": 1998
+	},
+	{
+		"marca": "Opel",
+		"model": "Astra GTC",
+		"god": 2011
+	},
+	{
+		"marca": "Opel",
+		"model": "Astra OPC",
+		"god": 2011
+	},
+	{
+		"marca": "Opel",
+		"model": "Cascada",
+		"god": 2013
+	},
+	{
+		"marca": "Opel",
+		"model": "Combo",
+		"god": 2001
+	},
+	{
+		"marca": "Opel",
+		"model": "Corsa",
+		"god": 2000
+	},
+	{
+		"marca": "Opel",
+		"model": "Corsa OPC",
+		"god": 2007
+	},
+	{
+		"marca": "Opel",
+		"model": "Crossland",
+		"god": 2020
+	},
+	{
+		"marca": "Opel",
+		"model": "Crossland X",
+		"god": 2017
+	},
+	{
+		"marca": "Opel",
+		"model": "Frontera",
+		"god": 1998
+	},
+	{
+		"marca": "Opel",
+		"model": "Grandland X",
+		"god": 2017
+	},
+	{
+		"marca": "Opel",
+		"model": "Insignia",
+		"god": 2008
+	},
+	{
+		"marca": "Opel",
+		"model": "Insignia OPC",
+		"god": 2009
+	},
+	{
+		"marca": "Opel",
+		"model": "Karl",
+		"god": 2014
+	},
+	{
+		"marca": "Opel",
+		"model": "Meriva",
+		"god": 2003
+	},
+	{
+		"marca": "Opel",
+		"model": "Mokka",
+		"god": 2012
+	},
+	{
+		"marca": "Opel",
+		"model": "Omega",
+		"god": 1994
+	},
+	{
+		"marca": "Opel",
+		"model": "Signum",
+		"god": 2003
+	},
+	{
+		"marca": "Opel",
+		"model": "Speedster",
+		"god": 2000
+	},
+	{
+		"marca": "Opel",
+		"model": "Tigra",
+		"god": 1994
+	},
+	{
+		"marca": "Opel",
+		"model": "Vectra",
+		"god": 1995
+	},
+	{
+		"marca": "Opel",
+		"model": "Vivaro",
+		"god": 2014
+	},
+	{
+		"marca": "Opel",
+		"model": "Zafira",
+		"god": 1999
+	},
+	{
+		"marca": "Opel",
+		"model": "Zafira Life",
+		"god": 2019
+	},
+	{
+		"marca": "Opel",
+		"model": "Zafira Tourer",
+		"god": 2012
+	},
+	{
+		"marca": "Peugeot",
+		"model": 1007,
+		"god": 2004
+	},
+	{
+		"marca": "Peugeot",
+		"model": 107,
+		"god": 2005
+	},
+	{
+		"marca": "Peugeot",
+		"model": 108,
+		"god": 2014
+	},
+	{
+		"marca": "Peugeot",
+		"model": 2008,
+		"god": 2013
+	},
+	{
+		"marca": "Peugeot",
+		"model": 206,
+		"god": 1998
+	},
+	{
+		"marca": "Peugeot",
+		"model": 207,
+		"god": 2006
+	},
+	{
+		"marca": "Peugeot",
+		"model": 208,
+		"god": 2012
+	},
+	{
+		"marca": "Peugeot",
+		"model": 3008,
+		"god": 2009
+	},
+	{
+		"marca": "Peugeot",
+		"model": 301,
+		"god": 2012
+	},
+	{
+		"marca": "Peugeot",
+		"model": 307,
+		"god": 2000
+	},
+	{
+		"marca": "Peugeot",
+		"model": 308,
+		"god": 2007
+	},
+	{
+		"marca": "Peugeot",
+		"model": 4007,
+		"god": 2007
+	},
+	{
+		"marca": "Peugeot",
+		"model": 4008,
+		"god": 2012
+	},
+	{
+		"marca": "Peugeot",
+		"model": 406,
+		"god": 1995
+	},
+	{
+		"marca": "Peugeot",
+		"model": 407,
+		"god": 2004
+	},
+	{
+		"marca": "Peugeot",
+		"model": 408,
+		"god": 2010
+	},
+	{
+		"marca": "Peugeot",
+		"model": 5008,
+		"god": 2009
+	},
+	{
+		"marca": "Peugeot",
+		"model": 508,
+		"god": 2011
+	},
+	{
+		"marca": "Peugeot",
+		"model": 607,
+		"god": 2000
+	},
+	{
+		"marca": "Peugeot",
+		"model": 807,
+		"god": 2002
+	},
+	{
+		"marca": "Peugeot",
+		"model": "Boxer",
+		"god": 2008
+	},
+	{
+		"marca": "Peugeot",
+		"model": "Expert",
+		"god": 2016
+	},
+	{
+		"marca": "Peugeot",
+		"model": "Landtrek",
+		"god": 2020
+	},
+	{
+		"marca": "Peugeot",
+		"model": "Partner",
+		"god": 1996
+	},
+	{
+		"marca": "Peugeot",
+		"model": "RCZ Sport",
+		"god": 2010
+	},
+	{
+		"marca": "Peugeot",
+		"model": "Rifter",
+		"god": 2018
+	},
+	{
+		"marca": "Peugeot",
+		"model": "Traveller",
+		"god": 2016
+	},
+	{
+		"marca": "Plymouth",
+		"model": "Road Runner",
+		"god": 1968
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Aztec",
+		"god": 2001
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Bonneville",
+		"god": 1999
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Firebird",
+		"god": 1993
+	},
+	{
+		"marca": "Pontiac",
+		"model": "G5 Pursuit",
+		"god": 2004
+	},
+	{
+		"marca": "Pontiac",
+		"model": "G6",
+		"god": 2004
+	},
+	{
+		"marca": "Pontiac",
+		"model": "G8",
+		"god": 2008
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Grand AM",
+		"god": 1998
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Grand Prix",
+		"god": 1996
+	},
+	{
+		"marca": "Pontiac",
+		"model": "GTO",
+		"god": 2004
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Montana",
+		"god": 1997
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Solstice",
+		"god": 2005
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Sunfire",
+		"god": 1995
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Torrent",
+		"god": 2005
+	},
+	{
+		"marca": "Pontiac",
+		"model": "Vibe",
+		"god": 2002
+	},
+	{
+		"marca": "Porsche",
+		"model": "718 Boxster",
+		"god": 2016
+	},
+	{
+		"marca": "Porsche",
+		"model": "718 Cayman",
+		"god": 2016
+	},
+	{
+		"marca": "Porsche",
+		"model": 911,
+		"god": 1997
+	},
+	{
+		"marca": "Porsche",
+		"model": "Boxster",
+		"god": 1996
+	},
+	{
+		"marca": "Porsche",
+		"model": "Cayenne",
+		"god": 2002
+	},
+	{
+		"marca": "Porsche",
+		"model": "Cayman",
+		"god": 2005
+	},
+	{
+		"marca": "Porsche",
+		"model": "Macan",
+		"god": 2014
+	},
+	{
+		"marca": "Porsche",
+		"model": "Panamera",
+		"god": 2009
+	},
+	{
+		"marca": "Porsche",
+		"model": "Taycan",
+		"god": 2020
+	},
+	{
+		"marca": "Ravon",
+		"model": "Gentra",
+		"god": 2015
+	},
+	{
+		"marca": "Renault",
+		"model": "Alaskan",
+		"god": 2016
+	},
+	{
+		"marca": "Renault",
+		"model": "Arkana",
+		"god": 2019
+	},
+	{
+		"marca": "Renault",
+		"model": "Avantime",
+		"god": 2001
+	},
+	{
+		"marca": "Renault",
+		"model": "Captur",
+		"god": 2013
+	},
+	{
+		"marca": "Renault",
+		"model": "Clio",
+		"god": 1998
+	},
+	{
+		"marca": "Renault",
+		"model": "Duster",
+		"god": 2010
+	},
+	{
+		"marca": "Renault",
+		"model": "Duster Oroch",
+		"god": 2015
+	},
+	{
+		"marca": "Renault",
+		"model": "Espace",
+		"god": 1996
+	},
+	{
+		"marca": "Renault",
+		"model": "Fluence",
+		"god": 2010
+	},
+	{
+		"marca": "Renault",
+		"model": "Grand Scenic",
+		"god": 2009
+	},
+	{
+		"marca": "Renault",
+		"model": "Kadjar",
+		"god": 2015
+	},
+	{
+		"marca": "Renault",
+		"model": "Kangoo",
+		"god": 1998
+	},
+	{
+		"marca": "Renault",
+		"model": "Kaptur",
+		"god": 2016
+	},
+	{
+		"marca": "Renault",
+		"model": "Koleos",
+		"god": 2008
+	},
+	{
+		"marca": "Renault",
+		"model": "Laguna",
+		"god": 1993
+	},
+	{
+		"marca": "Renault",
+		"model": "Latitude",
+		"god": 2010
+	},
+	{
+		"marca": "Renault",
+		"model": "Logan",
+		"god": 2004
+	},
+	{
+		"marca": "Renault",
+		"model": "Master",
+		"god": 2011
+	},
+	{
+		"marca": "Renault",
+		"model": "Megane",
+		"god": 1996
+	},
+	{
+		"marca": "Renault",
+		"model": "Modus",
+		"god": 2004
+	},
+	{
+		"marca": "Renault",
+		"model": "Sandero",
+		"god": 2007
+	},
+	{
+		"marca": "Renault",
+		"model": "Sandero Stepway",
+		"god": 2008
+	},
+	{
+		"marca": "Renault",
+		"model": "Scenic",
+		"god": 1996
+	},
+	{
+		"marca": "Renault",
+		"model": "Symbol",
+		"god": 2002
+	},
+	{
+		"marca": "Renault",
+		"model": "Taliant",
+		"god": 2021
+	},
+	{
+		"marca": "Renault",
+		"model": "Talisman",
+		"god": 2015
+	},
+	{
+		"marca": "Renault",
+		"model": "Trafic",
+		"god": 2001
+	},
+	{
+		"marca": "Renault",
+		"model": "Triber",
+		"god": 2019
+	},
+	{
+		"marca": "Renault",
+		"model": "Twingo",
+		"god": 1993
+	},
+	{
+		"marca": "Renault",
+		"model": "Twizy",
+		"god": 2012
+	},
+	{
+		"marca": "Renault",
+		"model": "Vel Satis",
+		"god": 2002
+	},
+	{
+		"marca": "Renault",
+		"model": "Wind",
+		"god": 2010
+	},
+	{
+		"marca": "Renault",
+		"model": "Zoe",
+		"god": 2012
+	},
+	{
+		"marca": "Rolls-Royce",
+		"model": "Cullinan",
+		"god": 2018
+	},
+	{
+		"marca": "Rolls-Royce",
+		"model": "Dawn",
+		"god": 2015
+	},
+	{
+		"marca": "Rolls-Royce",
+		"model": "Ghost",
+		"god": 2009
+	},
+	{
+		"marca": "Rolls-Royce",
+		"model": "Phantom",
+		"god": 2003
+	},
+	{
+		"marca": "Rolls-Royce",
+		"model": "Wraith",
+		"god": 2013
+	},
+	{
+		"marca": "Rover",
+		"model": 25,
+		"god": 1999
+	},
+	{
+		"marca": "Rover",
+		"model": 400,
+		"god": 1996
+	},
+	{
+		"marca": "Rover",
+		"model": 45,
+		"god": 2000
+	},
+	{
+		"marca": "Rover",
+		"model": 600,
+		"god": 1999
+	},
+	{
+		"marca": "Rover",
+		"model": 75,
+		"god": 1999
+	},
+	{
+		"marca": "Rover",
+		"model": "Streetwise",
+		"god": 2003
+	},
+	{
+		"marca": "Saab",
+		"model": "9-2x",
+		"god": 2004
+	},
+	{
+		"marca": "Saab",
+		"model": "9-3",
+		"god": 2003
+	},
+	{
+		"marca": "Saab",
+		"model": "9-4x",
+		"god": 2011
+	},
+	{
+		"marca": "Saab",
+		"model": "9-5",
+		"god": 1997
+	},
+	{
+		"marca": "Saab",
+		"model": "9-7x",
+		"god": 2005
+	},
+	{
+		"marca": "Saturn",
+		"model": "Aura",
+		"god": 2007
+	},
+	{
+		"marca": "Saturn",
+		"model": "Ion",
+		"god": 2003
+	},
+	{
+		"marca": "Saturn",
+		"model": "LW",
+		"god": 1998
+	},
+	{
+		"marca": "Saturn",
+		"model": "Outlook",
+		"god": 2006
+	},
+	{
+		"marca": "Saturn",
+		"model": "Sky",
+		"god": 2007
+	},
+	{
+		"marca": "Saturn",
+		"model": "Vue",
+		"god": 2002
+	},
+	{
+		"marca": "Scion",
+		"model": "FR-S",
+		"god": 2012
+	},
+	{
+		"marca": "Scion",
+		"model": "tC",
+		"god": 2004
+	},
+	{
+		"marca": "Scion",
+		"model": "xA",
+		"god": 2003
+	},
+	{
+		"marca": "Scion",
+		"model": "xB",
+		"god": 2003
+	},
+	{
+		"marca": "Scion",
+		"model": "xD",
+		"god": 2007
+	},
+	{
+		"marca": "Seat",
+		"model": "Alhambra",
+		"god": 1998
+	},
+	{
+		"marca": "Seat",
+		"model": "Altea",
+		"god": 2004
+	},
+	{
+		"marca": "Seat",
+		"model": "Altea Freetrack",
+		"god": 2007
+	},
+	{
+		"marca": "Seat",
+		"model": "Altea XL",
+		"god": 2007
+	},
+	{
+		"marca": "Seat",
+		"model": "Arona",
+		"god": 2017
+	},
+	{
+		"marca": "Seat",
+		"model": "Arosa",
+		"god": 1997
+	},
+	{
+		"marca": "Seat",
+		"model": "Ateca",
+		"god": 2016
+	},
+	{
+		"marca": "Seat",
+		"model": "Cordoba",
+		"god": 1999
+	},
+	{
+		"marca": "Seat",
+		"model": "Exeo",
+		"god": 2008
+	},
+	{
+		"marca": "Seat",
+		"model": "Ibiza",
+		"god": 2002
+	},
+	{
+		"marca": "Seat",
+		"model": "Leon",
+		"god": 1999
+	},
+	{
+		"marca": "Seat",
+		"model": "Mii",
+		"god": 2012
+	},
+	{
+		"marca": "Seat",
+		"model": "Tarraco",
+		"god": 2018
+	},
+	{
+		"marca": "Seat",
+		"model": "Toledo",
+		"god": 2004
+	},
+	{
+		"marca": "Skoda",
+		"model": "Citigo",
+		"god": 2011
+	},
+	{
+		"marca": "Skoda",
+		"model": "Enyaq iV",
+		"god": 2020
+	},
+	{
+		"marca": "Skoda",
+		"model": "Fabia",
+		"god": 1999
+	},
+	{
+		"marca": "Skoda",
+		"model": "Felicia",
+		"god": 1995
+	},
+	{
+		"marca": "Skoda",
+		"model": "Kamiq",
+		"god": 2019
+	},
+	{
+		"marca": "Skoda",
+		"model": "Karoq",
+		"god": 2017
+	},
+	{
+		"marca": "Skoda",
+		"model": "Kodiaq",
+		"god": 2016
+	},
+	{
+		"marca": "Skoda",
+		"model": "Octavia",
+		"god": 1995
+	},
+	{
+		"marca": "Skoda",
+		"model": "Octavia Scout",
+		"god": 2007
+	},
+	{
+		"marca": "Skoda",
+		"model": "Octavia Tour",
+		"god": 2006
+	},
+	{
+		"marca": "Skoda",
+		"model": "Praktik",
+		"god": 2007
+	},
+	{
+		"marca": "Skoda",
+		"model": "Rapid",
+		"god": 2012
+	},
+	{
+		"marca": "Skoda",
+		"model": "Rapid Spaceback (NH1)",
+		"god": 2013
+	},
+	{
+		"marca": "Skoda",
+		"model": "Roomster",
+		"god": 2006
+	},
+	{
+		"marca": "Skoda",
+		"model": "Scala",
+		"god": 2019
+	},
+	{
+		"marca": "Skoda",
+		"model": "Superb",
+		"god": 2002
+	},
+	{
+		"marca": "Skoda",
+		"model": "Yeti",
+		"god": 2009
+	},
+	{
+		"marca": "Smart",
+		"model": "Forfour",
+		"god": 2004
+	},
+	{
+		"marca": "Smart",
+		"model": "Fortwo",
+		"god": 1997
+	},
+	{
+		"marca": "Smart",
+		"model": "Roadster",
+		"god": 2003
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Actyon",
+		"god": 2005
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Actyon Sports",
+		"god": 2006
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Chairman",
+		"god": 1997
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Korando",
+		"god": 2002
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Kyron",
+		"god": 2005
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Musso",
+		"god": 1993
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Musso Sport",
+		"god": 2004
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Rexton",
+		"god": 2001
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Rodius",
+		"god": 2004
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Stavic",
+		"god": 2013
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "Tivoli",
+		"god": 2015
+	},
+	{
+		"marca": "Ssang Yong",
+		"model": "XLV",
+		"god": 2016
+	},
+	{
+		"marca": "Subaru",
+		"model": "Ascent",
+		"god": 2018
+	},
+	{
+		"marca": "Subaru",
+		"model": "Baja",
+		"god": 2002
+	},
+	{
+		"marca": "Subaru",
+		"model": "BRZ",
+		"god": 2012
+	},
+	{
+		"marca": "Subaru",
+		"model": "Crosstrack",
+		"god": 2018
+	},
+	{
+		"marca": "Subaru",
+		"model": "Exiga",
+		"god": 2008
+	},
+	{
+		"marca": "Subaru",
+		"model": "Forester",
+		"god": 1997
+	},
+	{
+		"marca": "Subaru",
+		"model": "Impreza",
+		"god": 1992
+	},
+	{
+		"marca": "Subaru",
+		"model": "Justy",
+		"god": 1995
+	},
+	{
+		"marca": "Subaru",
+		"model": "Legacy",
+		"god": 1994
+	},
+	{
+		"marca": "Subaru",
+		"model": "Levorg",
+		"god": 2014
+	},
+	{
+		"marca": "Subaru",
+		"model": "Outback",
+		"god": 1997
+	},
+	{
+		"marca": "Subaru",
+		"model": "Traviq",
+		"god": 2001
+	},
+	{
+		"marca": "Subaru",
+		"model": "Tribeca",
+		"god": 2005
+	},
+	{
+		"marca": "Subaru",
+		"model": "WRX",
+		"god": 2014
+	},
+	{
+		"marca": "Subaru",
+		"model": "XV",
+		"god": 2012
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Alto",
+		"god": 2002
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Baleno",
+		"god": 1995
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Celerio",
+		"god": 2014
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Ciaz",
+		"god": 2014
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Grand Vitara",
+		"god": 1998
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Grand Vitara XL7",
+		"god": 1998
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Ignis",
+		"god": 2000
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Jimny",
+		"god": 1998
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Kizashi",
+		"god": 2009
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Liana",
+		"god": 2002
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Splash",
+		"god": 2008
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Swift",
+		"god": 2005
+	},
+	{
+		"marca": "Suzuki",
+		"model": "SX4",
+		"god": 2006
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Vitara",
+		"god": 2015
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Wagon R",
+		"god": 2012
+	},
+	{
+		"marca": "Suzuki",
+		"model": "Wagon R+",
+		"god": 2000
+	},
+	{
+		"marca": "Tesla",
+		"model": "Model 3",
+		"god": 2017
+	},
+	{
+		"marca": "Tesla",
+		"model": "Model S",
+		"god": 2012
+	},
+	{
+		"marca": "Tesla",
+		"model": "Model X",
+		"god": 2015
+	},
+	{
+		"marca": "Tesla",
+		"model": "Model Y",
+		"god": 2019
+	},
+	{
+		"marca": "Toyota",
+		"model": "4Runner",
+		"god": 1995
+	},
+	{
+		"marca": "Toyota",
+		"model": "Alphard",
+		"god": 2002
+	},
+	{
+		"marca": "Toyota",
+		"model": "Auris",
+		"god": 2007
+	},
+	{
+		"marca": "Toyota",
+		"model": "Avalon",
+		"god": 2000
+	},
+	{
+		"marca": "Toyota",
+		"model": "Avensis",
+		"god": 1997
+	},
+	{
+		"marca": "Toyota",
+		"model": "Avensis Verso",
+		"god": 2001
+	},
+	{
+		"marca": "Toyota",
+		"model": "Aygo",
+		"god": 2005
+	},
+	{
+		"marca": "Toyota",
+		"model": "C-HR",
+		"god": 2016
+	},
+	{
+		"marca": "Toyota",
+		"model": "Caldina",
+		"god": 2002
+	},
+	{
+		"marca": "Toyota",
+		"model": "Camry",
+		"god": 1996
+	},
+	{
+		"marca": "Toyota",
+		"model": "Celica",
+		"god": 1999
+	},
+	{
+		"marca": "Toyota",
+		"model": "Corolla",
+		"god": 1995
+	},
+	{
+		"marca": "Toyota",
+		"model": "Corolla Verso",
+		"god": 2002
+	},
+	{
+		"marca": "Toyota",
+		"model": "FJ Cruiser",
+		"god": 2007
+	},
+	{
+		"marca": "Toyota",
+		"model": "Fortuner",
+		"god": 2004
+	},
+	{
+		"marca": "Toyota",
+		"model": "GT 86",
+		"god": 2012
+	},
+	{
+		"marca": "Toyota",
+		"model": "Hiace",
+		"god": 2006
+	},
+	{
+		"marca": "Toyota",
+		"model": "Highlander",
+		"god": 2000
+	},
+	{
+		"marca": "Toyota",
+		"model": "Hilux",
+		"god": 2005
+	},
+	{
+		"marca": "Toyota",
+		"model": "iQ",
+		"god": 2008
+	},
+	{
+		"marca": "Toyota",
+		"model": "ist",
+		"god": 2002
+	},
+	{
+		"marca": "Toyota",
+		"model": "Land Cruiser",
+		"god": 1990
+	},
+	{
+		"marca": "Toyota",
+		"model": "Land Cruiser Prado",
+		"god": 2002
+	},
+	{
+		"marca": "Toyota",
+		"model": "Mark II",
+		"god": 2000
+	},
+	{
+		"marca": "Toyota",
+		"model": "Mirai",
+		"god": 2014
+	},
+	{
+		"marca": "Toyota",
+		"model": "MR2",
+		"god": 1999
+	},
+	{
+		"marca": "Toyota",
+		"model": "Picnic",
+		"god": 1995
+	},
+	{
+		"marca": "Toyota",
+		"model": "Previa",
+		"god": 2000
+	},
+	{
+		"marca": "Toyota",
+		"model": "Prius",
+		"god": 2003
+	},
+	{
+		"marca": "Toyota",
+		"model": "RAV4",
+		"god": 1994
+	},
+	{
+		"marca": "Toyota",
+		"model": "Sequoia",
+		"god": 2001
+	},
+	{
+		"marca": "Toyota",
+		"model": "Sienna",
+		"god": 2002
+	},
+	{
+		"marca": "Toyota",
+		"model": "Supra",
+		"god": 2019
+	},
+	{
+		"marca": "Toyota",
+		"model": "Tacoma",
+		"god": 2005
+	},
+	{
+		"marca": "Toyota",
+		"model": "Tundra",
+		"god": 1999
+	},
+	{
+		"marca": "Toyota",
+		"model": "Venza",
+		"god": 2008
+	},
+	{
+		"marca": "Toyota",
+		"model": "Verso",
+		"god": 2009
+	},
+	{
+		"marca": "Toyota",
+		"model": "Vitz",
+		"god": 2005
+	},
+	{
+		"marca": "Toyota",
+		"model": "Yaris",
+		"god": 1999
+	},
+	{
+		"marca": "Toyota",
+		"model": "Yaris Verso",
+		"god": 1999
+	},
+	{
+		"marca": "UAZ",
+		"model": "Pickup",
+		"god": 2008
+	},
+	{
+		"marca": "UAZ",
+		"model": "Патриот",
+		"god": 2005
+	},
+	{
+		"marca": "UAZ",
+		"model": "Хантер",
+		"god": 2003
+	},
+	{
+		"marca": "VAZ",
+		"model": "2101-2107",
+		"god": 1976
+	},
+	{
+		"marca": "VAZ",
+		"model": "2108, 2109, 21099",
+		"god": 1984
+	},
+	{
+		"marca": "VAZ",
+		"model": "2110, 2111, 2112",
+		"god": 1996
+	},
+	{
+		"marca": "VAZ",
+		"model": "2113, 2114, 2115",
+		"god": 1997
+	},
+	{
+		"marca": "VAZ",
+		"model": "4x4 Urban",
+		"god": 2014
+	},
+	{
+		"marca": "VAZ",
+		"model": "Granta",
+		"god": 2011
+	},
+	{
+		"marca": "VAZ",
+		"model": "Largus",
+		"god": 2012
+	},
+	{
+		"marca": "VAZ",
+		"model": "Largus Cross",
+		"god": 2015
+	},
+	{
+		"marca": "VAZ",
+		"model": "Vesta Cross",
+		"god": 2018
+	},
+	{
+		"marca": "VAZ",
+		"model": "Vesta Sport",
+		"god": 2018
+	},
+	{
+		"marca": "VAZ",
+		"model": "Vesta SW",
+		"god": 2017
+	},
+	{
+		"marca": "VAZ",
+		"model": "XRay",
+		"god": 2016
+	},
+	{
+		"marca": "VAZ",
+		"model": "XRay Cross",
+		"god": 2018
+	},
+	{
+		"marca": "VAZ",
+		"model": "Веста",
+		"god": 2015
+	},
+	{
+		"marca": "VAZ",
+		"model": "Калина",
+		"god": 2004
+	},
+	{
+		"marca": "VAZ",
+		"model": "Нива 4X4",
+		"god": 1977
+	},
+	{
+		"marca": "VAZ",
+		"model": "Ока",
+		"god": 1988
+	},
+	{
+		"marca": "VAZ",
+		"model": "Приора",
+		"god": 2007
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Amarok",
+		"god": 2010
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Arteon",
+		"god": 2017
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Beetle",
+		"god": 2011
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Bora",
+		"god": 1998
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Caddy",
+		"god": 2004
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "CC",
+		"god": 2012
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Crafter",
+		"god": 2008
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "CrossGolf",
+		"god": 2007
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "CrossPolo",
+		"god": 2006
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "CrossTouran",
+		"god": 2007
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Eos",
+		"god": 2006
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Fox",
+		"god": 2005
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Golf",
+		"god": 1997
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "ID.4",
+		"god": 2020
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Jetta",
+		"god": 2005
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Lupo",
+		"god": 1998
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Multivan",
+		"god": 2003
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "New Beetle",
+		"god": 1998
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Passat",
+		"god": 2000
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Passat CC",
+		"god": 2008
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Phaeton",
+		"god": 2002
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Pointer",
+		"god": 1993
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Polo",
+		"god": 2001
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Routan",
+		"god": 2008
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Scirocco",
+		"god": 2008
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Sharan",
+		"god": 1995
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "T-Roc",
+		"god": 2017
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Taos",
+		"god": 2020
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Teramont",
+		"god": 2017
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Tiguan",
+		"god": 2007
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Touareg",
+		"god": 2002
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Touran",
+		"god": 2003
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Transporter",
+		"god": 1990
+	},
+	{
+		"marca": "Volkswagen",
+		"model": "Up",
+		"god": 2011
+	},
+	{
+		"marca": "Volvo",
+		"model": "C30",
+		"god": 2007
+	},
+	{
+		"marca": "Volvo",
+		"model": "C40",
+		"god": 2021
+	},
+	{
+		"marca": "Volvo",
+		"model": "C70",
+		"god": 2006
+	},
+	{
+		"marca": "Volvo",
+		"model": "C70 Convertible",
+		"god": 1997
+	},
+	{
+		"marca": "Volvo",
+		"model": "C70 Coupe",
+		"god": 1996
+	},
+	{
+		"marca": "Volvo",
+		"model": "S40",
+		"god": 1995
+	},
+	{
+		"marca": "Volvo",
+		"model": "S60",
+		"god": 2000
+	},
+	{
+		"marca": "Volvo",
+		"model": "S70",
+		"god": 1996
+	},
+	{
+		"marca": "Volvo",
+		"model": "S80",
+		"god": 1998
+	},
+	{
+		"marca": "Volvo",
+		"model": "S90",
+		"god": 1997
+	},
+	{
+		"marca": "Volvo",
+		"model": "V40",
+		"god": 1995
+	},
+	{
+		"marca": "Volvo",
+		"model": "V50",
+		"god": 2004
+	},
+	{
+		"marca": "Volvo",
+		"model": "V60",
+		"god": 2011
+	},
+	{
+		"marca": "Volvo",
+		"model": "V70",
+		"god": 1996
+	},
+	{
+		"marca": "Volvo",
+		"model": "V90",
+		"god": 1997
+	},
+	{
+		"marca": "Volvo",
+		"model": "XC40",
+		"god": 2017
+	},
+	{
+		"marca": "Volvo",
+		"model": "XC60",
+		"god": 2008
+	},
+	{
+		"marca": "Volvo",
+		"model": "XC70",
+		"god": 2001
+	},
+	{
+		"marca": "Volvo",
+		"model": "XC90",
+		"god": 2002
+	}
+]
